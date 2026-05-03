@@ -1,0 +1,37 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Toronto,Toronto,43.7417,-79.3733,Canada,CA,CAN,Ontario,admin,5647656.0,1124279679
+Montréal,Montreal,45.5089,-73.5617,Canada,CA,CAN,Quebec,,3675219.0,1124586170
+Vancouver,Vancouver,49.25,-123.1,Canada,CA,CAN,British Columbia,,2426160.0,1124825478
+Calgary,Calgary,51.05,-114.0667,Canada,CA,CAN,Alberta,,1306784.0,1124690423
+Edmonton,Edmonton,53.5344,-113.4903,Canada,CA,CAN,Alberta,admin,1151635.0,1124290735
+Ottawa,Ottawa,45.4247,-75.695,Canada,CA,CAN,Ontario,primary,1068821.0,1124399363
+Winnipeg,Winnipeg,49.8844,-97.1464,Canada,CA,CAN,Manitoba,admin,758515.0,1124224963
+Quebec City,Quebec City,46.8139,-71.2081,Canada,CA,CAN,Quebec,admin,733156.0,1124823933
+Hamilton,Hamilton,43.2567,-79.8692,Canada,CA,CAN,Ontario,,729560.0,1124567288
+Mississauga,Mississauga,43.6,-79.65,Canada,CA,CAN,Ontario,,717961.0,1124112672
+Brampton,Brampton,43.6833,-79.7667,Canada,CA,CAN,Ontario,,656480.0,1124625989
+Surrey,Surrey,49.19,-122.8489,Canada,CA,CAN,British Columbia,,568322.0,1124001454
+Kitchener,Kitchener,43.4186,-80.4728,Canada,CA,CAN,Ontario,,522888.0,1124158530
+Halifax,Halifax,44.6475,-63.5906,Canada,CA,CAN,Nova Scotia,admin,439819.0,1124130981
+Laval,Laval,45.5833,-73.75,Canada,CA,CAN,Quebec,,438366.0,1124922301
+London,London,42.9836,-81.2497,Canada,CA,CAN,Ontario,,423369.0,1124469960
+Victoria,Victoria,48.4283,-123.3647,Canada,CA,CAN,British Columbia,admin,363222.0,1124147219
+Markham,Markham,43.8767,-79.2633,Canada,CA,CAN,Ontario,,338503.0,1124272698
+Oshawa,Oshawa,43.9,-78.85,Canada,CA,CAN,Ontario,,335949.0,1124541904
+Vaughan,Vaughan,43.8333,-79.5,Canada,CA,CAN,Ontario,,323103.0,1124000141
+Windsor,Windsor,42.2833,-83.0,Canada,CA,CAN,Ontario,,306519.0,1124261024
+Gatineau,Gatineau,45.4833,-75.65,Canada,CA,CAN,Quebec,,291041.0,1124722129
+Saskatoon,Saskatoon,52.1333,-106.6833,Canada,CA,CAN,Saskatchewan,,266141.0,1124612546
+Longueuil,Longueuil,45.5333,-73.5167,Canada,CA,CAN,Quebec,,254483.0,1124122753
+Burnaby,Burnaby,49.2667,-122.9667,Canada,CA,CAN,British Columbia,,249125.0,1124817304
+St. Catharines,St. Catharines,43.1833,-79.2333,Canada,CA,CAN,Ontario,,242460.0,1124140229
+Regina,Regina,50.4547,-104.6067,Canada,CA,CAN,Saskatchewan,admin,226404.0,1124342541
+Oakville,Oakville,43.45,-79.6833,Canada,CA,CAN,Ontario,,213759.0,1124080468
+Richmond,Richmond,49.1667,-123.1333,Canada,CA,CAN,British Columbia,,209937.0,1124121940
+Richmond Hill,Richmond Hill,43.8667,-79.4333,Canada,CA,CAN,Ontario,,202022.0,1124364273
+St. John's,St. John's,47.4817,-52.7971,Canada,CA,CAN,Newfoundland and Labrador,admin,185565.0,1124741456
+Fredericton,Fredericton,45.9636,-66.6431,Canada,CA,CAN,New Brunswick,admin,64614.0,1124061289
+Charlottetown,Charlottetown,46.2403,-63.1347,Canada,CA,CAN,Prince Edward Island,admin,52390.0,1124897699
+Whitehorse,Whitehorse,60.7029,-135.0691,Canada,CA,CAN,Yukon,admin,28201.0,1124348186
+Yellowknife,Yellowknife,62.4709,-114.4053,Canada,CA,CAN,Northwest Territories,admin,20340.0,1124208917
+Iqaluit,Iqaluit,63.7598,-68.5107,Canada,CA,CAN,Nunavut,admin,7740.0,1124379539
