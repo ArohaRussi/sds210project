@@ -26,8 +26,8 @@ sds210project/
 |-- environment.yml                  # Conda environment with all dependencies
 |--  data/
 |   |--  raw/                         # Original, unmodified source files (read only!)
-|  │   |--  NFDB_point.csv
-|  │   |__ worldcities.csv
+|   |   |--  NFDB_point.csv
+|   |   |__ worldcities.csv
 |   |__ processed/                   # processed data
 |       |--  fire_2023_clean.csv
 |       |--  fire_2023_points.geojson
@@ -61,8 +61,10 @@ conda env create -f environment.yml
 conda activate sds210project
 ```
 
-* **The `environment.yml` file:**
-> The file includes all required packages for this project, such as pandas, geopandas, folium, leafmap, matplotlib, request
+**The `environment.yml` file:**
+> The file includes all required packages for this project, such as pandas, geopandas, folium, leafmap, requests
+> Since i worked with jupyterlab it is already installed in the `environment.yml`
+> When creating the environment all required packages will be installed automatically.
 
 **Step 3: Storing the raw data files**
 
