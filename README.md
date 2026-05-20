@@ -25,6 +25,7 @@ If you want to download them to your own folder make sure to load theme into the
 
 ## Project Structure
 
+```bash
 sds210project/
 |-- README.md
 |-- environment.yml                  # Conda environment with all dependencies
@@ -45,6 +46,7 @@ sds210project/
 |   |__ visualization.ipynb
 |__ outputs/
     |__ interactive_firemap.html     # Final deliverable
+```
 
 ## Setup Instructions:
 
