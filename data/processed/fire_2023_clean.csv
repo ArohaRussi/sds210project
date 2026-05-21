@@ -1,0 +1,965 @@
+fid,province,fire_id,latitude,longitude,year,size_ha,cause,size_class,class_weight
+NFDB_point.410,Quebec,20231080218,53.0505,-75.3255,2023,885388.2142,Natural,mega fire,256
+NFDB_point.827,Northwest Territories,SS022-23,60.290967,-111.85055,2023,641421.0,Natural,mega fire,256
+NFDB_point.107,British Columbia,2023-G80280,57.6187,-122.0123,2023,619072.5,Natural,mega fire,256
+NFDB_point.231,Saskatchewan,23LX-SMITH,55.984833,-106.58665,2023,543976.0,Natural,mega fire,256
+NFDB_point.860,Northwest Territories,FS001-23,60.0514,-120.9759,2023,541766.0,Natural,mega fire,256
+NFDB_point.724,Northwest Territories,SS067-23,60.018817,-118.325867,2023,430000.0,Natural,mega fire,256
+NFDB_point.497,Quebec,20231080483,54.0569,-74.6378,2023,349357.0055,Natural,mega fire,256
+NFDB_point.893,PC,2023WB7,59.6748,-112.4246,2023,348511.0,Natural,mega fire,256
+NFDB_point.228,Saskatchewan,23LA-MCCRAE,56.06835,-105.85235,2023,339371.7,Natural,mega fire,256
+NFDB_point.28,British Columbia,2023-G90288,59.9636,-120.9866,2023,290073.32,Natural,mega fire,256
+NFDB_point.97,British Columbia,2023-G92498,58.5786,-120.9371,2023,275054.7,Natural,mega fire,256
+NFDB_point.461,Quebec,20231080357,52.8959,-73.4055,2023,267371.2364,Natural,mega fire,256
+NFDB_point.727,Northwest Territories,SS052-23,60.766667,-116.8,2023,252253.0,Natural,mega fire,256
+NFDB_point.15178,Alberta,HWF058,58.16715,-118.41965,2023,234061.0,Natural,mega fire,256
+NFDB_point.849,Northwest Territories,ZF015-23,62.938333,-115.105,2023,215280.41,Natural,mega fire,256
+NFDB_point.15190,Alberta,HWF036,58.4906,-119.4031,2023,203022.0,Unknown,mega fire,256
+NFDB_point.15147,Alberta,EWF031,53.145183,-115.686783,2023,201913.0,Natural,mega fire,256
+NFDB_point.548,Quebec,20231080608,50.838,-78.4067,2023,193555.6816,Natural,mega fire,256
+NFDB_point.226,Saskatchewan,23LX-SHAW,55.558417,-108.380233,2023,191000.0,Human,mega fire,256
+NFDB_point.825,Northwest Territories,SS027-23,61.281233,-111.385017,2023,176000.0,Natural,mega fire,256
+NFDB_point.543,Quebec,20231080602,52.7774,-78.3195,2023,174991.9983,Natural,mega fire,256
+NFDB_point.65,British Columbia,2023-G90628,58.5021,-120.4118,2023,173353.1,Natural,mega fire,256
+NFDB_point.142,British Columbia,2023-G60666,55.9468,-124.5446,2023,166856.9,Natural,mega fire,256
+NFDB_point.456,Quebec,20231080344,49.1217,-76.7867,2023,143833.0429,Natural,mega fire,256
+NFDB_point.15162,Alberta,SWF068,55.877833,-116.407667,2023,143039.0,Natural,mega fire,256
+NFDB_point.579,Quebec,20231080485,53.3839,-76.1125,2023,133572.3,Natural,mega fire,256
+NFDB_point.838,Northwest Territories,ZF013-23,64.24,-113.591667,2023,132001.0,Natural,mega fire,256
+NFDB_point.15199,Alberta,MWF043,59.7624,-111.149033,2023,130805.0,Natural,mega fire,256
+NFDB_point.542,Quebec,20231080601,53.0429,-77.1398,2023,130555.9184,Natural,mega fire,256
+NFDB_point.453,Quebec,20231080334,50.4529,-74.1311,2023,124302.3948,Natural,mega fire,256
+NFDB_point.15184,Alberta,SWF063,54.95775,-115.681083,2023,123670.0,Natural,mega fire,256
+NFDB_point.887,PC,2023WB11,59.2167,-113.4225,2023,118948.0,Natural,mega fire,256
+NFDB_point.588,Quebec,20231080587,53.0594,-77.9686,2023,113712.7,Natural,mega fire,256
+NFDB_point.870,PC,2023WB18,59.762,-113.908,2023,109244.0,Natural,mega fire,256
+NFDB_point.15142,Alberta,MWF025,58.86705,-111.145817,2023,105251.0,Natural,mega fire,256
+NFDB_point.835,Northwest Territories,EV004-23,67.116667,-132.31445,2023,100000.0,Natural,mega fire,256
+NFDB_point.840,Northwest Territories,ZF033-23,65.316667,-116.25,2023,99628.3,Natural,very big,16
+NFDB_point.15179,Alberta,HWF030,58.468,-114.483875,2023,96582.2,Unknown,very big,16
+NFDB_point.450,Quebec,20231080314,49.556,-76.7643,2023,96015.23444,Natural,very big,16
+NFDB_point.852,Northwest Territories,FS010-23,61.008167,-119.9915,2023,90508.0,Natural,very big,16
+NFDB_point.221,Saskatchewan,23BN-VERMETTE,55.644317,-109.219233,2023,88446.0,Human,very big,16
+NFDB_point.15169,Alberta,RWF034,52.815117,-115.450383,2023,87492.0,Natural,very big,16
+NFDB_point.230,Saskatchewan,23LX-VEDETTE,56.3283,-106.763367,2023,85148.1,Natural,very big,16
+NFDB_point.886,PC,2023WB14,58.96,-113.2899,2023,83116.0,Natural,very big,16
+NFDB_point.842,Northwest Territories,ZF019-23,63.2,-114.533333,2023,82000.0,Natural,very big,16
+NFDB_point.517,Quebec,20231080547,55.9933,-68.9819,2023,79956.13998,Natural,very big,16
+NFDB_point.875,PC,2023WB25,59.5079,-114.2576,2023,77293.0,Natural,very big,16
+NFDB_point.847,Northwest Territories,SS016-23,61.41925,-110.399733,2023,75643.0,Natural,very big,16
+NFDB_point.503,Quebec,20231080504,54.4117,-76.0108,2023,74757.28502,Natural,very big,16
+NFDB_point.63,British Columbia,2023-G91313,58.672,-121.6427,2023,74685.7,Natural,very big,16
+NFDB_point.738,Northwest Territories,ZF085-23,62.18555,-113.386667,2023,73109.17,Natural,very big,16
+NFDB_point.436,Quebec,20231080222,49.0606,-76.1278,2023,71465.5,Natural,very big,16
+NFDB_point.30,British Columbia,2023-G92940,59.2838,-121.8901,2023,71002.7,Natural,very big,16
+NFDB_point.235,Saskatchewan,23LX-LSZ001,55.282914,-110.000705,2023,69995.7,Natural,very big,16
+NFDB_point.611,Yukon,2023OC017,68.080404,-138.434946,2023,68201.82,Unknown,very big,16
+NFDB_point.15170,Alberta,WWF023,54.388929,-116.371578,2023,66436.7,Natural,very big,16
+NFDB_point.490,Quebec,20231080467,50.7285,-76.2619,2023,65433.96916,Natural,very big,16
+NFDB_point.229,Saskatchewan,23LA-WISTIGO,55.2572,-106.374667,2023,64309.0,Natural,very big,16
+NFDB_point.871,PC,2023WB2,59.3952,-112.4517,2023,64149.0,Natural,very big,16
+NFDB_point.861,Northwest Territories,SS004-23,60.9536,-119.1875,2023,64000.0,Natural,very big,16
+NFDB_point.374,Ontario,SLK33,50.5579,-90.1077,2023,62378.0,Natural,very big,16
+NFDB_point.834,Northwest Territories,ZF018-23,63.066667,-112.033333,2023,62082.85,Natural,very big,16
+NFDB_point.647,Yukon,2023OT003,59.635385,-129.415924,2023,60871.77,Unknown,very big,16
+NFDB_point.93,British Columbia,2023-R91162,59.6421,-129.5938,2023,60064.12,Natural,very big,16
+NFDB_point.15149,Alberta,MWF023,57.976283,-113.214917,2023,59444.0,Natural,very big,16
+NFDB_point.591,Quebec,20231080606,51.232,-78.1722,2023,58400.0,Natural,very big,16
+NFDB_point.845,Northwest Territories,ZF011-23,62.864967,-113.718333,2023,57413.62,Natural,very big,16
+NFDB_point.15172,Alberta,HWF112,59.225,-114.4041,2023,57412.0,Natural,very big,16
+NFDB_point.491,Quebec,20231080469,54.0028,-72.1716,2023,57224.63459,Natural,very big,16
+NFDB_point.881,PC,2023NA1,61.8325,-123.9356,2023,57130.0,Natural,very big,16
+NFDB_point.252,Saskatchewan,23LA-KENNY,55.036183,-104.086883,2023,55344.8,Natural,very big,16
+NFDB_point.833,Northwest Territories,VQ009-23,64.815,-125.137417,2023,55173.0,Natural,very big,16
+NFDB_point.15173,Alberta,GWF027,54.520083,-117.356783,2023,54988.4,Unknown,very big,16
+NFDB_point.470,Quebec,20231080379,50.1667,-73.4733,2023,50013.53349,Natural,very big,16
+NFDB_point.15164,Alberta,GWF018,56.281817,-119.161633,2023,49327.7,Human,very big,16
+NFDB_point.367,Ontario,NIP9,53.0395,-88.3788,2023,48555.0,Natural,very big,16
+NFDB_point.45,British Columbia,2023-G51279,54.4219,-123.6492,2023,48396.3,Natural,very big,16
+NFDB_point.495,Quebec,20231080480,51.68,-73.2598,2023,48336.71038,Natural,very big,16
+NFDB_point.537,Quebec,20231080590,51.9708,-77.9334,2023,48033.04385,Natural,very big,16
+NFDB_point.140,British Columbia,2023-K52125,49.1726,-120.0607,2023,46504.2,Natural,very big,16
+NFDB_point.88,British Columbia,2023-K21633,51.0035,-119.8255,2023,45613.0,Natural,very big,16
+NFDB_point.15143,Alberta,HWF109,59.453166,-114.158713,2023,45061.0,Natural,very big,16
+NFDB_point.83,British Columbia,2023-G41307,53.591,-124.1523,2023,44641.7,Natural,very big,16
+NFDB_point.15165,Alberta,SWF060,55.956383,-115.056367,2023,43981.0,Natural,very big,16
+NFDB_point.718,Northwest Territories,SS069-23,60.019783,-112.673983,2023,43000.0,Natural,very big,16
+NFDB_point.245,Saskatchewan,23LX-BOLDING,57.876629,-107.046291,2023,42844.3,Natural,very big,16
+NFDB_point.38,British Columbia,2023-G90273,58.0617,-121.9122,2023,42838.5,Natural,very big,16
+NFDB_point.15180,Alberta,HWF079,59.860083,-115.8038,2023,42579.0,Natural,very big,16
+NFDB_point.363,Ontario,NIP13,50.8433,-87.3543,2023,40833.6,Natural,very big,16
+NFDB_point.510,Quebec,20231080534,50.8211,-76.1181,2023,40676.44701,Natural,very big,16
+NFDB_point.15185,Alberta,SWF064,54.896,-116.100217,2023,40606.0,Natural,very big,16
+NFDB_point.96,British Columbia,2023-VA1381,53.0425,-126.3309,2023,40580.0,Natural,very big,16
+NFDB_point.534,Quebec,20231080575,51.3065,-77.3302,2023,39888.0108,Natural,very big,16
+NFDB_point.815,Northwest Territories,VQ018-23,66.91965,-129.47335,2023,38550.0,Natural,very big,16
+NFDB_point.373,Ontario,SLK31,50.9728,-89.1258,2023,38033.2,Natural,very big,16
+NFDB_point.24,British Columbia,2023-G90709,59.8265,-123.5519,2023,37793.9,Natural,very big,16
+NFDB_point.396,Ontario,COC7,48.9843,-79.6735,2023,37742.0,Natural,very big,16
+NFDB_point.796,Northwest Territories,ZF041-23,64.7693,-119.5291,2023,36070.35,Natural,very big,16
+NFDB_point.793,Northwest Territories,EV014-23,68.5205,-133.1005,2023,35583.0,Natural,very big,16
+NFDB_point.814,Northwest Territories,VQ020-23,67.32465,-130.092883,2023,35000.0,Natural,very big,16
+NFDB_point.424,Quebec,20231080274,49.5084,-75.2876,2023,34965.46073,Natural,very big,16
+NFDB_point.25,British Columbia,2023-G41502,53.5682,-125.2453,2023,34853.6,Natural,very big,16
+NFDB_point.66,British Columbia,2023-G91739,59.4203,-123.6556,2023,33425.6,Natural,very big,16
+NFDB_point.15136,Alberta,SWF081,56.990917,-113.459433,2023,33138.0,Natural,very big,16
+NFDB_point.47,British Columbia,2023-G91534,59.4272,-121.0306,2023,32257.2,Natural,very big,16
+NFDB_point.839,Northwest Territories,VQ006-23,64.9089,-125.218717,2023,32101.0,Natural,very big,16
+NFDB_point.589,Quebec,20231080588,53.3481,-76.9054,2023,32074.1,Natural,very big,16
+NFDB_point.836,Northwest Territories,ZF012-23,63.01205,-114.424317,2023,31138.66,Natural,very big,16
+NFDB_point.498,Quebec,20231080488,50.2326,-78.3937,2023,31040.89224,Natural,very big,16
+NFDB_point.15197,Alberta,HWF072,57.692833,-116.019833,2023,30123.0,Natural,very big,16
+NFDB_point.236,Saskatchewan,23LX-PAWR02,55.290761,-109.988132,2023,29790.2,Natural,very big,16
+NFDB_point.568,Quebec,20231080376,48.9048,-75.8251,2023,29790.2,Natural,very big,16
+NFDB_point.576,Quebec,20231080468,53.9517,-72.4023,2023,29660.8,Natural,very big,16
+NFDB_point.213,British Columbia,2023-G80291,56.5112,-121.2219,2023,29505.9,Human,very big,16
+NFDB_point.407,Quebec,20231080172,50.6166,-66.0077,2023,28749.85206,Human,very big,16
+NFDB_point.15148,Alberta,MWF024,57.712283,-110.6469,2023,28504.0,Natural,very big,16
+NFDB_point.631,Yukon,2023XY018,61.860833,-134.511667,2023,28374.65,Unknown,very big,16
+NFDB_point.577,Quebec,20231080473,50.5738,-75.0117,2023,27602.4,Natural,very big,16
+NFDB_point.440,Quebec,20231080237,48.6083,-76.6358,2023,27496.6,Natural,very big,16
+NFDB_point.15145,Alberta,PWF093,57.981817,-119.972633,2023,27174.4,Natural,very big,16
+NFDB_point.500,Quebec,20231080492,51.1862,-74.0799,2023,26721.37246,Natural,very big,16
+NFDB_point.634,Yukon,2023OC026,67.775724,-139.06673,2023,26367.0,Unknown,very big,16
+NFDB_point.820,Northwest Territories,FS023-23,64.008,-121.356,2023,26000.0,Natural,very big,16
+NFDB_point.492,Quebec,20231080470,51.1604,-66.1951,2023,25616.05175,Natural,very big,16
+NFDB_point.46,British Columbia,2023-G70645,55.1541,-120.6697,2023,25095.0,Natural,very big,16
+NFDB_point.761,Northwest Territories,ZF066-23,64.7325,-115.986667,2023,25063.37,Natural,very big,16
+NFDB_point.768,Northwest Territories,VQ030-23,67.779583,-129.701883,2023,25000.0,Natural,very big,16
+NFDB_point.866,PC,2023WB1,58.6371,-114.0023,2023,24947.0,Unknown,very big,16
+NFDB_point.566,Quebec,20231080369,49.1684,-75.6707,2023,24917.1,Natural,very big,16
+NFDB_point.246,Saskatchewan,23BN-SHAD,56.4411,-107.966317,2023,24854.0,Natural,very big,16
+NFDB_point.122,British Columbia,2023-R11282,53.5192,-125.8533,2023,24810.8,Natural,very big,16
+NFDB_point.174,British Columbia,2023-G60325,57.3534,-124.8435,2023,24705.0,Natural,very big,16
+NFDB_point.565,Quebec,20231080368,50.4835,-74.2785,2023,24152.0,Natural,very big,16
+NFDB_point.494,Quebec,20231080479,52.5229,-70.4005,2023,23928.00437,Natural,very big,16
+NFDB_point.602,Nova Scotia,03-010-2023,43.62860107,-65.58329773,2023,23379.19922,Human,very big,16
+NFDB_point.501,Quebec,20231080498,54.5291,-77.7444,2023,23295.33097,Natural,very big,16
+NFDB_point.445,Quebec,20231080292,49.2112,-76.3439,2023,23280.4,Natural,very big,16
+NFDB_point.332,Manitoba,NO029,56.5225,-99.6622,2023,23014.0,Natural,very big,16
+NFDB_point.743,Northwest Territories,ZF080-23,64.454167,-115.202667,2023,22806.82,Natural,very big,16
+NFDB_point.106,British Columbia,2023-G90981,59.1395,-127.65,2023,22393.46,Natural,very big,16
+NFDB_point.206,British Columbia,2023-G60853,55.2402,-123.6703,2023,22372.75,Natural,very big,16
+NFDB_point.752,Northwest Territories,ZF072-23,63.625167,-115.998333,2023,22285.96,Natural,very big,16
+NFDB_point.343,Manitoba,WE027,53.4722,-99.5917,2023,22055.0,Natural,very big,16
+NFDB_point.804,Northwest Territories,ZF040-23,65.669,-115.6223,2023,22000.0,Natural,very big,16
+NFDB_point.18,British Columbia,2023-G41158,52.9571,-125.672,2023,21926.5,Natural,very big,16
+NFDB_point.370,Ontario,COC38,50.7194,-79.8475,2023,21879.7,Natural,very big,16
+NFDB_point.806,Northwest Territories,ZF038-23,64.5512,-119.9343,2023,21572.73,Natural,very big,16
+NFDB_point.567,Quebec,20231080371,49.1511,-75.1669,2023,21467.7,Natural,very big,16
+NFDB_point.621,Yukon,2023DA014,65.948833,-137.311167,2023,21418.49,Natural,very big,16
+NFDB_point.851,Northwest Territories,VQ003-23,65.475367,-126.70775,2023,21099.0,Natural,very big,16
+NFDB_point.44,British Columbia,2023-G90292,58.0517,-123.3252,2023,21056.0,Natural,very big,16
+NFDB_point.769,Northwest Territories,SS056-23,60.244567,-108.11215,2023,21000.0,Natural,very big,16
+NFDB_point.61,British Columbia,2023-K21384,52.1458,-119.9619,2023,20745.0,Natural,very big,16
+NFDB_point.369,Ontario,SLK7,51.7644,-91.8501,2023,20426.5,Natural,very big,16
+NFDB_point.563,Quebec,20231080312,49.0308,-76.5067,2023,20391.8,Natural,very big,16
+NFDB_point.877,PC,2023WB12,58.1171,-112.6443,2023,20280.0,Natural,very big,16
+NFDB_point.775,Northwest Territories,ZF052-23,65.919167,-116.941667,2023,20279.58,Natural,very big,16
+NFDB_point.331,Manitoba,NO025,56.4772,-92.2878,2023,20000.0,Natural,very big,16
+NFDB_point.519,Quebec,20231080550,56.9001,-67.0405,2023,19763.69398,Natural,very big,16
+NFDB_point.844,Northwest Territories,ZF020-23,63.816667,-115.683333,2023,19736.16,Natural,very big,16
+NFDB_point.15155,Alberta,EWF035,53.836833,-115.783333,2023,19672.0,Unknown,very big,16
+NFDB_point.333,Manitoba,NO032,56.2092,-90.6069,2023,19500.0,Natural,very big,16
+NFDB_point.854,Northwest Territories,VQ002-23,64.349583,-122.731517,2023,19412.0,Natural,very big,16
+NFDB_point.241,Saskatchewan,23LA-SHARP,55.424067,-105.1221,2023,19251.0,Natural,very big,16
+NFDB_point.560,Quebec,20231080689,50.5713,-79.3046,2023,19248.49051,Natural,very big,16
+NFDB_point.400,Ontario,RED28,50.7161,-92.2131,2023,19177.1,Natural,very big,16
+NFDB_point.188,British Columbia,2023-G80875,57.2791,-120.9118,2023,19136.5,Natural,very big,16
+NFDB_point.525,Quebec,20231080558,55.0558,-69.4483,2023,19005.75844,Natural,very big,16
+NFDB_point.243,Saskatchewan,23SR-RIACH,59.7405,-109.3085,2023,18906.3,Natural,very big,16
+NFDB_point.15183,Alberta,GWF019,54.735667,-119.032783,2023,18884.0,Natural,very big,16
+NFDB_point.481,Quebec,20231080450,50.6516,-73.105,2023,18866.42465,Natural,very big,16
+NFDB_point.892,PC,2023WB19,58.1625,-113.4416,2023,18781.0,Natural,very big,16
+NFDB_point.832,Northwest Territories,ZF025-23,63.320833,-113.591667,2023,18529.16,Natural,very big,16
+NFDB_point.254,Saskatchewan,23LA-WAPA,54.729529,-104.650979,2023,18423.0,Natural,very big,16
+NFDB_point.511,Quebec,20231080535,50.295,-78.1756,2023,18405.57335,Natural,very big,16
+NFDB_point.251,Saskatchewan,23LX-ELLERAAS,56.830067,-106.594933,2023,18342.2,Natural,very big,16
+NFDB_point.398,Ontario,SLK23,53.7625,-90.7008,2023,18200.0,Natural,very big,16
+NFDB_point.846,Northwest Territories,VQ007-23,64.157583,-125.645783,2023,18000.0,Natural,very big,16
+NFDB_point.826,Northwest Territories,VQ010-23,64.380883,-125.962067,2023,18000.0,Natural,very big,16
+NFDB_point.787,Northwest Territories,EV016-23,68.086333,-132.359333,2023,18000.0,Natural,very big,16
+NFDB_point.15204,Alberta,PWF125,56.859183,-119.659367,2023,17714.2,Natural,very big,16
+NFDB_point.640,Yukon,2023OC024,66.253136,-139.038494,2023,17574.17,Unknown,very big,16
+NFDB_point.468,Quebec,20231080373,48.8432,-75.1021,2023,17532.65499,Natural,very big,16
+NFDB_point.219,British Columbia,2023-V11337,49.9815,-121.64,2023,17405.9,Natural,very big,16
+NFDB_point.37,British Columbia,2023-G50872,55.3014,-124.841,2023,17333.8,Natural,very big,16
+NFDB_point.703,Yukon,2023MA007,63.030367,-133.854317,2023,17157.57,Unknown,very big,16
+NFDB_point.401,Ontario,SLK47,53.1217,-90.366,2023,17104.0,Natural,very big,16
+NFDB_point.650,Yukon,2023OC018,66.027432,-135.596068,2023,17001.36,Unknown,very big,16
+NFDB_point.77,British Columbia,2023-C52978,51.5811,-125.0824,2023,16842.0,Natural,very big,16
+NFDB_point.15153,Alberta,SWF057,55.034283,-115.14815,2023,16728.0,Natural,very big,16
+NFDB_point.276,Saskatchewan,23SR-CHAMB,59.652583,-105.28545,2023,16566.4,Natural,very big,16
+NFDB_point.554,Quebec,20231080624,52.9583,-76.729,2023,16385.71501,Natural,very big,16
+NFDB_point.275,Saskatchewan,23SR-SEGUIN,59.729731,-105.237048,2023,16367.9,Natural,very big,16
+NFDB_point.707,Yukon,2023OC016,67.959885,-138.61084,2023,16116.0,Unknown,very big,16
+NFDB_point.335,Manitoba,NO037,57.0006,-100.587,2023,15779.3,Natural,very big,16
+NFDB_point.502,Quebec,20231080501,54.4905,-77.3302,2023,15576.96599,Natural,very big,16
+NFDB_point.742,Northwest Territories,ZF086-23,63.491333,-113.5075,2023,15346.54,Natural,very big,16
+NFDB_point.15201,Alberta,MWF039,57.421667,-113.400667,2023,15191.0,Natural,very big,16
+NFDB_point.432,Quebec,20231080297,48.1812,-76.909,2023,15186.47763,Natural,very big,16
+NFDB_point.225,Saskatchewan,23BR-SAULTEAUX,53.121339,-108.196355,2023,15000.0,Human,very big,16
+NFDB_point.15138,Alberta,RWF032,52.905417,-115.695967,2023,15000.0,Natural,very big,16
+NFDB_point.15139,Alberta,MWF021,57.693917,-113.29625,2023,14753.0,Natural,very big,16
+NFDB_point.856,Northwest Territories,FS002-23,61.86549138,-123.8933996,2023,14550.0,Natural,very big,16
+NFDB_point.90,British Columbia,2023-R90877,57.4801,-127.652,2023,14460.07,Natural,very big,16
+NFDB_point.15206,Alberta,HWF104,59.955033,-116.247333,2023,14250.0,Natural,very big,16
+NFDB_point.336,Manitoba,NO038,57.0575,-100.511,2023,14019.3,Natural,very big,16
+NFDB_point.810,Northwest Territories,FS022-23,61.029833,-121.346167,2023,14000.0,Natural,very big,16
+NFDB_point.214,British Columbia,2023-K52767,49.9081,-119.6328,2023,13970.4,Unknown,very big,16
+NFDB_point.872,PC,2023WB23,60.457,-113.851,2023,13934.0,Natural,very big,16
+NFDB_point.698,Yukon,2023MA011,64.029453,-135.850085,2023,13853.11,Natural,very big,16
+NFDB_point.483,Quebec,20231080453,50.7173,-72.5551,2023,13832.86196,Natural,very big,16
+NFDB_point.876,PC,2023WB24,59.5512,-115.5107,2023,13736.0,Natural,very big,16
+NFDB_point.15181,Alberta,HWF083,57.79945,-114.7748,2023,13700.0,Natural,very big,16
+NFDB_point.706,Yukon,2023OC021,66.760242,-136.729634,2023,13668.91,Unknown,very big,16
+NFDB_point.460,Quebec,20231080353,49.8556,-70.0188,2023,13594.05715,Natural,very big,16
+NFDB_point.334,Manitoba,WE018,55.4372,-101.673,2023,13381.0,Natural,very big,16
+NFDB_point.318,Manitoba,EA073,52.7689,-96.4156,2023,13359.0,Natural,very big,16
+NFDB_point.15167,Alberta,RWF027,52.82095,-115.908167,2023,13100.0,Natural,very big,16
+NFDB_point.508,Quebec,20231080526,54.4134,-72.6183,2023,12863.87219,Natural,very big,16
+NFDB_point.489,Quebec,20231080462,50.678,-72.8355,2023,12764.95531,Natural,very big,16
+NFDB_point.15174,Alberta,HWF087,58.158117,-114.182933,2023,12508.0,Natural,very big,16
+NFDB_point.701,Yukon,2023DA015,65.914,-137.3595,2023,12500.0,Natural,very big,16
+NFDB_point.857,Northwest Territories,FS003-23,62.55395,-124.6435,2023,12453.0,Natural,very big,16
+NFDB_point.760,Northwest Territories,ZF073-23,63.793333,-115.979167,2023,12338.95,Natural,very big,16
+NFDB_point.190,British Columbia,2023-G60861,55.3665,-124.4427,2023,12274.62,Natural,very big,16
+NFDB_point.186,British Columbia,2023-R11387,53.7504,-126.1737,2023,12142.0,Natural,very big,16
+NFDB_point.504,Quebec,20231080508,54.6822,-74.8565,2023,12120.25432,Natural,very big,16
+NFDB_point.170,British Columbia,2023-G90956,59.5248,-126.6508,2023,12107.21,Natural,very big,16
+NFDB_point.15159,Alberta,EWF040,53.935583,-117.776167,2023,12073.4,Natural,very big,16
+NFDB_point.15188,Alberta,HWF159,59.684617,-119.684367,2023,12059.99,Natural,very big,16
+NFDB_point.821,Northwest Territories,VQ012-23,65.675617,-129.443283,2023,12000.0,Natural,very big,16
+NFDB_point.723,Northwest Territories,FS025-23,63.500833,-121.386333,2023,12000.0,Natural,very big,16
+NFDB_point.770,Northwest Territories,VQ034-23,65.934783,-129.8975,2023,12000.0,Natural,very big,16
+NFDB_point.391,Ontario,RED5,53.4689,-93.2176,2023,11748.0,Natural,very big,16
+NFDB_point.289,Saskatchewan,23SR-HAMIL,58.283733,-104.214783,2023,11740.7,Natural,very big,16
+NFDB_point.626,Yukon,2023DA029,63.8365,-137.810667,2023,11683.83,Unknown,very big,16
+NFDB_point.664,Yukon,2023MA038,65.685483,-135.040167,2023,11651.05,Unknown,very big,16
+NFDB_point.270,Saskatchewan,23SR-DORRELL,59.983783,-106.8046,2023,11456.0,Natural,very big,16
+NFDB_point.741,Northwest Territories,ZF083-23,64.416667,-118.90555,2023,11412.24,Natural,very big,16
+NFDB_point.324,Manitoba,NO043,55.8589,-94.3678,2023,11391.6,Natural,very big,16
+NFDB_point.78,British Columbia,2023-K22024,50.4484,-120.4009,2023,11382.0,Natural,very big,16
+NFDB_point.444,Quebec,20231080268,48.513,-76.0481,2023,11357.8,Natural,very big,16
+NFDB_point.132,British Columbia,2023-K71535,50.6806,-122.3862,2023,11284.0,Natural,very big,16
+NFDB_point.797,Northwest Territories,ZF046-23,63.9224,-113.8541,2023,11210.49,Natural,very big,16
+NFDB_point.342,Manitoba,NO066,56.2333,-101.628,2023,11017.0,Natural,very big,16
+NFDB_point.785,Northwest Territories,VQ032-23,66.173783,-130.413433,2023,11000.0,Natural,very big,16
+NFDB_point.767,Northwest Territories,VQ027-23,65.678133,-127.605983,2023,11000.0,Natural,very big,16
+NFDB_point.776,Northwest Territories,VQ033-23,66.0378,-130.074,2023,11000.0,Natural,very big,16
+NFDB_point.15175,Alberta,SWF116,57.1762,-113.801217,2023,10670.0,Natural,very big,16
+NFDB_point.420,Quebec,20231080261,49.5063,-69.657,2023,10668.5075,Natural,very big,16
+NFDB_point.538,Quebec,20231080593,51.472,-77.3682,2023,10560.61351,Natural,very big,16
+NFDB_point.595,Newfoundland and Labrador,2023-607,53.08564,-64.36238,2023,10560.0,Natural,very big,16
+NFDB_point.790,Northwest Territories,VQ026-23,66.929567,-128.535917,2023,10400.0,Natural,very big,16
+NFDB_point.858,Northwest Territories,FS004-23,63.258317,-125.120417,2023,10335.0,Natural,very big,16
+NFDB_point.379,Ontario,COC49,50.5531,-80.7494,2023,10194.7,Natural,very big,16
+NFDB_point.387,Ontario,NIP19,51.0052,-87.5622,2023,10182.6,Natural,very big,16
+NFDB_point.637,Yukon,2023MA015,64.174842,-132.671654,2023,10108.17,Natural,very big,16
+NFDB_point.540,Quebec,20231080597,51.7425,-78.4303,2023,10041.71378,Natural,very big,16
+NFDB_point.79,British Columbia,2023-K21620,51.0114,-119.6968,2023,10004.9,Natural,very big,16
+NFDB_point.766,Northwest Territories,SS055-23,60.44355,-108.101417,2023,10000.0,Natural,very big,16
+NFDB_point.660,Yukon,2023RR005,62.620417,-132.4474,2023,9941.06,Unknown,big,4
+NFDB_point.544,Quebec,20231080603,51.9618,-76.8492,2023,9812.817651,Natural,big,4
+NFDB_point.689,Yukon,2023OC019,66.838545,-137.398577,2023,9675.89,Unknown,big,4
+NFDB_point.271,Saskatchewan,23SR-SOMER,59.561133,-105.078283,2023,9675.6,Natural,big,4
+NFDB_point.274,Saskatchewan,23LA-PELT,55.5534,-105.0417,2023,9601.0,Natural,big,4
+NFDB_point.277,Saskatchewan,23LA-POOLE,55.913083,-104.54705,2023,9584.0,Natural,big,4
+NFDB_point.141,British Columbia,2023-K71649,50.8561,-122.9739,2023,9565.0,Natural,big,4
+NFDB_point.488,Quebec,20231080460,51.0945,-73.1646,2023,9498.523378,Natural,big,4
+NFDB_point.429,Quebec,20231080283,49.5557,-68.6728,2023,9261.120292,Natural,big,4
+NFDB_point.240,Saskatchewan,23DB-KPIR02,54.85375,-103.389967,2023,9002.5,Human,big,4
+NFDB_point.774,Northwest Territories,VQ038-23,64.71735,-121.2397,2023,9000.0,Natural,big,4
+NFDB_point.260,Saskatchewan,23LA-COWIE,57.188567,-102.703967,2023,9000.0,Natural,big,4
+NFDB_point.757,Northwest Territories,EV019-23,67.592,-130.609333,2023,9000.0,Natural,big,4
+NFDB_point.661,Yukon,2023OC031,67.015282,-136.476263,2023,8833.09,Unknown,big,4
+NFDB_point.551,Quebec,20231080618,56.9721,-67.36,2023,8809.438368,Natural,big,4
+NFDB_point.744,Northwest Territories,ZF092-23,63.556667,-111.994433,2023,8796.53,Natural,big,4
+NFDB_point.673,Yukon,2023OC020,66.817032,-136.83334,2023,8700.0,Unknown,big,4
+NFDB_point.244,Saskatchewan,23SR-KAY,59.657167,-109.610833,2023,8689.4,Natural,big,4
+NFDB_point.402,Ontario,NIP26,53.8073,-88.7836,2023,8647.8,Natural,big,4
+NFDB_point.15194,Alberta,PWF082,56.950667,-119.776167,2023,8550.0,Natural,big,4
+NFDB_point.15144,Alberta,SWF095,54.86785,-116.6625,2023,8500.0,Natural,big,4
+NFDB_point.428,Quebec,20231080281,49.062,-79.3576,2023,8440.795798,Natural,big,4
+NFDB_point.284,Saskatchewan,23LA-BAY,55.954367,-103.659283,2023,8414.1,Natural,big,4
+NFDB_point.873,PC,2023WAFU1,66.0041,-121.7226,2023,8126.0,Natural,big,4
+NFDB_point.239,Saskatchewan,23LX-PAWR03,55.241689,-109.688796,2023,8075.8,Natural,big,4
+NFDB_point.167,British Columbia,2023-R11244,54.2352,-125.6435,2023,8044.0,Natural,big,4
+NFDB_point.526,Quebec,20231080559,54.6678,-73.1356,2023,8040.77828,Natural,big,4
+NFDB_point.764,Northwest Territories,SS058-23,60.197617,-106.355067,2023,8000.0,Natural,big,4
+NFDB_point.569,Quebec,20231080402,48.7513,-76.465,2023,8000.0,Natural,big,4
+NFDB_point.179,British Columbia,2023-R21217,54.8934,-125.8987,2023,7984.0,Natural,big,4
+NFDB_point.506,Quebec,20231080520,53.7711,-73.2525,2023,7929.377075,Natural,big,4
+NFDB_point.697,Yukon,2023MA021,65.354233,-134.7034,2023,7868.24,Natural,big,4
+NFDB_point.23,British Columbia,2023-C11499,53.1661,-123.7126,2023,7864.0,Natural,big,4
+NFDB_point.864,PC,2023WB31,59.6844,-115.2978,2023,7822.0,Natural,big,4
+NFDB_point.411,Quebec,20231080225,48.0571,-75.2646,2023,7684.740133,Natural,big,4
+NFDB_point.734,Northwest Territories,SS064-23,61.296917,-104.109533,2023,7500.0,Natural,big,4
+NFDB_point.255,Saskatchewan,23SR-JACKFISH,58.964368,-109.956182,2023,7417.9,Natural,big,4
+NFDB_point.20,British Columbia,2023-G92947,59.2269,-128.0591,2023,7301.75,Natural,big,4
+NFDB_point.15152,Alberta,GWF038,55.655002,-119.485325,2023,7148.0,Unknown,big,4
+NFDB_point.762,Northwest Territories,ZF069-23,64.361,-114.729167,2023,7132.0,Natural,big,4
+NFDB_point.658,Yukon,2023MA050,65.422167,-135.799633,2023,7117.23,Unknown,big,4
+NFDB_point.304,Saskatchewan,23LA-MCTAVISH,55.845,-105.360333,2023,7102.0,Natural,big,4
+NFDB_point.218,British Columbia,2023-K52318,49.0011,-119.5057,2023,7060.6,Unknown,big,4
+NFDB_point.786,Northwest Territories,EV025-23,67.6925,-130.087333,2023,7000.0,Natural,big,4
+NFDB_point.729,Northwest Territories,ZF090-23,65.057667,-115.4325,2023,7000.0,Natural,big,4
+NFDB_point.12,British Columbia,2023-G91494,59.8051,-121.7854,2023,6996.4,Natural,big,4
+NFDB_point.583,Quebec,20231080577,51.2201,-77.1335,2023,6964.4,Natural,big,4
+NFDB_point.116,British Columbia,2023-R11277,54.4004,-125.4675,2023,6890.0,Natural,big,4
+NFDB_point.124,British Columbia,2023-R21234,54.0151,-126.384,2023,6758.0,Natural,big,4
+NFDB_point.389,Ontario,WAW3,48.5366,-85.1704,2023,6678.1,Human,big,4
+NFDB_point.73,British Columbia,2023-C51562,52.5471,-124.7398,2023,6651.9,Natural,big,4
+NFDB_point.259,Saskatchewan,23LA-BLACK,55.722517,-105.848817,2023,6646.3,Natural,big,4
+NFDB_point.889,PC,2023WB3,58.2736,-112.8389,2023,6477.0,Natural,big,4
+NFDB_point.272,Saskatchewan,23LA-GERMAN,56.45435,-103.394333,2023,6470.0,Natural,big,4
+NFDB_point.586,Quebec,20231080584,52.1065,-78.0565,2023,6437.7,Natural,big,4
+NFDB_point.279,Saskatchewan,23SR-MESSUM,58.948517,-103.29765,2023,6436.4,Natural,big,4
+NFDB_point.417,Quebec,20231080248,47.9145,-75.7324,2023,6435.395791,Natural,big,4
+NFDB_point.7,British Columbia,2023-G80220,56.271,-119.9341,2023,6422.17,Human,big,4
+NFDB_point.816,Northwest Territories,VQ017-23,66.371567,-119.391067,2023,6376.0,Natural,big,4
+NFDB_point.674,Yukon,2023OC011,67.785928,-140.392042,2023,6359.14,Unknown,big,4
+NFDB_point.480,Quebec,20231080449,49.2594,-74.9865,2023,6356.55223,Natural,big,4
+NFDB_point.720,Northwest Territories,VQ046-23,64.390683,-120.814217,2023,6290.0,Natural,big,4
+NFDB_point.416,Quebec,20231080245,48.4702,-76.8563,2023,6254.358264,Natural,big,4
+NFDB_point.383,Ontario,SLK44,51.0888,-90.8216,2023,6208.0,Natural,big,4
+NFDB_point.15186,Alberta,HWF064,59.283833,-119.0668,2023,6175.0,Natural,big,4
+NFDB_point.136,British Columbia,2023-G51564,54.5447,-125.033,2023,6143.2,Natural,big,4
+NFDB_point.15141,Alberta,PWF038,56.386752,-116.809335,2023,6129.8,Unknown,big,4
+NFDB_point.165,British Columbia,2023-G81530,57.429,-120.2001,2023,6108.9,Natural,big,4
+NFDB_point.670,Yukon,2023MA045,64.181663,-134.920768,2023,6021.66,Unknown,big,4
+NFDB_point.414,Quebec,20231080236,49.3775,-72.0667,2023,5952.474156,Natural,big,4
+NFDB_point.874,PC,2023WB29,58.0812,-113.2374,2023,5900.0,Natural,big,4
+NFDB_point.731,Northwest Territories,VQ047-23,63.623683,-125.2411,2023,5865.0,Natural,big,4
+NFDB_point.385,Ontario,SUD17,46.6328,-82.2622,2023,5857.0,Natural,big,4
+NFDB_point.824,Northwest Territories,SS025-23,60.511633,-109.888967,2023,5857.0,Natural,big,4
+NFDB_point.533,Quebec,20231080574,54.6667,-77.4605,2023,5805.794554,Natural,big,4
+NFDB_point.41,British Columbia,2023-G50856,55.8798,-126.4014,2023,5712.7,Natural,big,4
+NFDB_point.685,Yukon,2023OC007,66.379333,-136.647333,2023,5673.67,Natural,big,4
+NFDB_point.250,Saskatchewan,23LX-HAULTAIN,56.861153,-106.427403,2023,5664.0,Natural,big,4
+NFDB_point.15168,Alberta,HWF130,59.466167,-119.9507,2023,5555.0,Natural,big,4
+NFDB_point.278,Saskatchewan,23SR-TODOS,59.336523,-106.725416,2023,5538.1,Natural,big,4
+NFDB_point.507,Quebec,20231080521,53.6759,-71.4792,2023,5515.282401,Natural,big,4
+NFDB_point.802,Northwest Territories,SS049-23,61.294567,-109.8511,2023,5500.0,Natural,big,4
+NFDB_point.777,Northwest Territories,SS054-23,60.0747,-106.24215,2023,5500.0,Natural,big,4
+NFDB_point.15163,Alberta,GWF017,55.053025,-117.43991,2023,5478.53,Unknown,big,4
+NFDB_point.485,Quebec,20231080457,51.1353,-72.7739,2023,5456.582968,Natural,big,4
+NFDB_point.561,Quebec,20231080304,48.6636,-76.2119,2023,5456.3,Natural,big,4
+NFDB_point.183,British Columbia,2023-N22240,50.2737,-115.6343,2023,5419.6,Natural,big,4
+NFDB_point.638,Yukon,2023MA039,65.554983,-135.424267,2023,5410.66,Unknown,big,4
+NFDB_point.433,Quebec,20231080299,49.2891,-72.414,2023,5405.266614,Natural,big,4
+NFDB_point.778,Northwest Territories,ZF054-23,65.55,-115.804167,2023,5400.0,Natural,big,4
+NFDB_point.458,Quebec,20231080351,49.1097,-74.6188,2023,5391.37379,Natural,big,4
+NFDB_point.418,Quebec,20231080249,49.3577,-71.0484,2023,5302.21278,Natural,big,4
+NFDB_point.619,Yukon,2023MA005,63.52175,-136.6647,2023,5297.09,Natural,big,4
+NFDB_point.202,British Columbia,2023-G90949,59.628,-126.9532,2023,5278.13,Natural,big,4
+NFDB_point.15157,Alberta,PWF067,57.647957,-117.89074,2023,5243.0,Natural,big,4
+NFDB_point.64,British Columbia,2023-G51344,54.7485,-123.8708,2023,5219.6,Natural,big,4
+NFDB_point.423,Quebec,20231080271,50.292,-70.572,2023,5120.535201,Natural,big,4
+NFDB_point.15182,Alberta,RWF040,52.808677,-116.203747,2023,5089.0,Human,big,4
+NFDB_point.878,PC,2023WB30,60.455,-115.5999,2023,5088.0,Natural,big,4
+NFDB_point.529,Quebec,20231080563,54.7291,-70.491,2023,5039.235893,Natural,big,4
+NFDB_point.693,Yukon,2023MA033,63.506,-135.822633,2023,5036.66,Natural,big,4
+NFDB_point.110,British Columbia,2023-K71705,50.3047,-121.8258,2023,5021.6,Natural,big,4
+NFDB_point.535,Quebec,20231080579,52.6016,-76.1739,2023,5014.020579,Natural,big,4
+NFDB_point.380,Ontario,RED29,50.6102,-92.5964,2023,5013.0,Natural,big,4
+NFDB_point.759,Northwest Territories,VQ028-23,64.54985,-125.545583,2023,5000.0,Natural,big,4
+NFDB_point.885,PC,2023WB8,58.9604,-112.9904,2023,4937.0,Natural,big,4
+NFDB_point.439,Quebec,20231080233,49.435,-77.2215,2023,4933.7,Natural,big,4
+NFDB_point.536,Quebec,20231080583,52.4255,-78.4068,2023,4916.821479,Natural,big,4
+NFDB_point.829,Northwest Territories,SS024-23,60.07345,-108.410717,2023,4911.0,Natural,big,4
+NFDB_point.26,British Columbia,2023-G41493,53.2252,-124.9064,2023,4878.8,Natural,big,4
+NFDB_point.655,Yukon,2023MA008,64.923917,-135.811483,2023,4873.21,Unknown,big,4
+NFDB_point.599,Newfoundland and Labrador,2023-614,56.99908,-62.04144,2023,4852.0,Natural,big,4
+NFDB_point.261,Saskatchewan,23LA-SHADD,55.664783,-105.394767,2023,4849.0,Natural,big,4
+NFDB_point.523,Quebec,20231080556,54.8704,-70.3383,2023,4844.571482,Natural,big,4
+NFDB_point.299,Saskatchewan,23SR-DEBUS2,59.012867,-109.621583,2023,4816.0,Natural,big,4
+NFDB_point.15151,Alberta,LWF138,55.628167,-110.361883,2023,4800.0,Natural,big,4
+NFDB_point.57,British Columbia,2023-G41511,53.7755,-124.4256,2023,4767.8,Natural,big,4
+NFDB_point.192,British Columbia,2023-R21377,54.0454,-126.5994,2023,4762.24,Natural,big,4
+NFDB_point.399,Ontario,SLK48,53.3889,-90.4112,2023,4748.0,Natural,big,4
+NFDB_point.15176,Alberta,SWF086,55.179817,-114.115967,2023,4742.0,Unknown,big,4
+NFDB_point.143,British Columbia,2023-K71634,50.3474,-121.7151,2023,4734.3,Natural,big,4
+NFDB_point.587,Quebec,20231080586,51.923,-77.7809,2023,4720.7,Natural,big,4
+NFDB_point.377,Ontario,COC24,54.2308,-85.6068,2023,4688.0,Natural,big,4
+NFDB_point.564,Quebec,20231080367,50.6536,-74.1507,2023,4678.6,Natural,big,4
+NFDB_point.419,Quebec,20231080256,49.3013,-76.9185,2023,4673.568506,Natural,big,4
+NFDB_point.692,Yukon,2023OC014,67.528806,-138.278775,2023,4661.76,Unknown,big,4
+NFDB_point.201,British Columbia,2023-N11805,49.6108,-115.7134,2023,4640.0,Human,big,4
+NFDB_point.99,British Columbia,2023-G60858,57.6324,-125.9272,2023,4638.0,Natural,big,4
+NFDB_point.95,British Columbia,2023-VA1456,52.2844,-125.7294,2023,4616.4,Natural,big,4
+NFDB_point.233,Saskatchewan,23LA-KOLWASKIE,57.2352,-102.716033,2023,4538.9,Natural,big,4
+NFDB_point.672,Yukon,2023WL007,60.753214,-130.738591,2023,4510.03,Unknown,big,4
+NFDB_point.59,British Columbia,2023-G70644,55.3792,-120.0827,2023,4427.0,Natural,big,4
+NFDB_point.27,British Columbia,2023-C11437,53.296,-123.6686,2023,4422.1,Natural,big,4
+NFDB_point.290,Saskatchewan,23SR-HELMER,59.007364,-107.430436,2023,4381.2,Natural,big,4
+NFDB_point.182,British Columbia,2023-R21673,53.8076,-126.6908,2023,4360.0,Natural,big,4
+NFDB_point.712,Northwest Territories,ZF100-23,63.915,-114.671383,2023,4305.0,Natural,big,4
+NFDB_point.884,PC,2023WB9,58.8869,-113.2325,2023,4218.0,Natural,big,4
+NFDB_point.282,Saskatchewan,23LA-BRAD,55.6305,-104.277167,2023,4191.0,Natural,big,4
+NFDB_point.584,Quebec,20231080578,51.1292,-77.0174,2023,4132.8,Natural,big,4
+NFDB_point.248,Saskatchewan,23BN-VOLD,55.837911,-109.774207,2023,4125.0,Natural,big,4
+NFDB_point.735,Northwest Territories,ZF089-23,64.872333,-115.4225,2023,4100.0,Natural,big,4
+NFDB_point.522,Quebec,20231080555,54.8559,-71.6385,2023,4060.003829,Natural,big,4
+NFDB_point.823,Northwest Territories,VQ015-23,64.16715,-124.067567,2023,4024.0,Natural,big,4
+NFDB_point.841,Northwest Territories,ZF051-23,65.779167,-116.750167,2023,4000.0,Natural,big,4
+NFDB_point.740,Northwest Territories,VQ036-23,66.017033,-125.542133,2023,4000.0,Natural,big,4
+NFDB_point.618,Yukon,2023CA009,61.766872,-135.106274,2023,3939.56,Unknown,big,4
+NFDB_point.158,British Columbia,2023-N22243,50.5343,-116.2428,2023,3918.5,Natural,big,4
+NFDB_point.394,Ontario,CHA3,47.7236,-82.4194,2023,3916.8,Natural,big,4
+NFDB_point.15161,Alberta,GWF023,55.157413,-117.330653,2023,3851.0,Unknown,big,4
+NFDB_point.375,Ontario,COC55,50.6355,-80.3291,2023,3835.9,Natural,big,4
+NFDB_point.653,Yukon,2023MA042,65.676892,-135.907609,2023,3831.65,Unknown,big,4
+NFDB_point.737,Northwest Territories,ZF094-23,64.738883,-118.813333,2023,3800.0,Natural,big,4
+NFDB_point.283,Saskatchewan,23SR-DEBUS,59.034617,-109.756617,2023,3781.9,Natural,big,4
+NFDB_point.184,British Columbia,2023-G91013,59.6431,-123.2241,2023,3764.8,Natural,big,4
+NFDB_point.264,Saskatchewan,23LX-TIMSON,57.8539,-106.348133,2023,3759.0,Natural,big,4
+NFDB_point.281,Saskatchewan,23SR-PHELPS,59.130258,-103.283011,2023,3729.5,Natural,big,4
+NFDB_point.771,Northwest Territories,SS057-23,60.026683,-106.992,2023,3700.0,Natural,big,4
+NFDB_point.684,Yukon,2023OC029,67.335411,-139.888516,2023,3618.86,Natural,big,4
+NFDB_point.613,Yukon,2023DA038,65.917283,-138.076333,2023,3570.42,Unknown,big,4
+NFDB_point.94,British Columbia,2023-VA1638,52.7022,-126.4986,2023,3555.0,Natural,big,4
+NFDB_point.311,Manitoba,NO007,54.5228,-97.7611,2023,3436.1,Human,big,4
+NFDB_point.15196,Alberta,MWF048,57.8415,-113.262833,2023,3369.0,Natural,big,4
+NFDB_point.105,British Columbia,2023-VA1735,52.5121,-125.9057,2023,3360.0,Natural,big,4
+NFDB_point.34,British Columbia,2023-C51571,52.7728,-125.5802,2023,3350.0,Natural,big,4
+NFDB_point.763,Northwest Territories,ZF063-23,64.941667,-114.258333,2023,3300.0,Natural,big,4
+NFDB_point.575,Quebec,20231080461,50.9972,-73.2609,2023,3242.8,Natural,big,4
+NFDB_point.119,British Columbia,2023-G60655,55.9945,-124.0818,2023,3215.3,Natural,big,4
+NFDB_point.859,Northwest Territories,SS005-23,60.84939217,-115.7011172,2023,3208.9,Human,big,4
+NFDB_point.15177,Alberta,HWF121,59.054108,-114.359425,2023,3173.2,Natural,big,4
+NFDB_point.580,Quebec,20231080500,54.5531,-77.8639,2023,3167.7,Natural,big,4
+NFDB_point.358,Ontario,COC20,53.0639,-84.036,2023,3118.1,Natural,big,4
+NFDB_point.287,Saskatchewan,23SR-EISEN,59.090283,-104.97345,2023,3106.5,Natural,big,4
+NFDB_point.51,British Columbia,2023-R31391,55.6386,-126.734,2023,3030.0,Unknown,big,4
+NFDB_point.668,Yukon,2023DA051,64.03465,-137.95465,2023,3020.49,Unknown,big,4
+NFDB_point.780,Northwest Territories,EV020-23,68.3375,-130.368,2023,3000.0,Natural,big,4
+NFDB_point.739,Northwest Territories,ZF081-23,65.520333,-114.308333,2023,3000.0,Natural,big,4
+NFDB_point.822,Northwest Territories,EV012-23,67.179,-135.669883,2023,3000.0,Natural,big,4
+NFDB_point.725,Northwest Territories,ZF088-23,64.783333,-115.193,2023,3000.0,Natural,big,4
+NFDB_point.782,Northwest Territories,EV021-23,68.3255,-130.671667,2023,3000.0,Natural,big,4
+NFDB_point.819,Northwest Territories,SS029-23,60.803883,-112.726667,2023,2986.0,Natural,big,4
+NFDB_point.266,Saskatchewan,23LA-HEPBURN,55.946867,-104.900417,2023,2958.3,Natural,big,4
+NFDB_point.134,British Columbia,2023-N12352,49.6784,-115.4511,2023,2952.0,Natural,big,4
+NFDB_point.198,British Columbia,2023-G80223,56.4161,-121.2324,2023,2947.0,Human,big,4
+NFDB_point.197,British Columbia,2023-N21453,50.6298,-115.7368,2023,2946.6,Natural,big,4
+NFDB_point.648,Yukon,2023DA045,65.398123,-136.819642,2023,2937.22,Unknown,big,4
+NFDB_point.539,Quebec,20231080595,51.7062,-77.4492,2023,2931.694756,Natural,big,4
+NFDB_point.316,Manitoba,EA055,53.2792,-96.9242,2023,2910.0,Natural,big,4
+NFDB_point.789,Northwest Territories,VQ035-23,66.979967,-128.999133,2023,2907.0,Natural,big,4
+NFDB_point.443,Quebec,20231080262,48.815,-76.0342,2023,2847.0,Natural,big,4
+NFDB_point.581,Quebec,20231080502,54.5135,-77.1605,2023,2798.6,Natural,big,4
+NFDB_point.690,Yukon,2023MA036,63.7793,-136.635117,2023,2794.87,Unknown,big,4
+NFDB_point.10,British Columbia,2023-C11290,52.8138,-122.9345,2023,2784.7,Natural,big,4
+NFDB_point.195,British Columbia,2023-R11388,53.4616,-126.101,2023,2779.0,Natural,big,4
+NFDB_point.499,Quebec,20231080490,54.8629,-70.9073,2023,2748.185755,Natural,big,4
+NFDB_point.751,Northwest Territories,ZF062-23,65.158333,-109.822167,2023,2700.0,Natural,big,4
+NFDB_point.426,Quebec,20231080277,49.5192,-72.6159,2023,2616.955201,Natural,big,4
+NFDB_point.732,Northwest Territories,ZF091-23,65.120833,-116.10085,2023,2600.0,Natural,big,4
+NFDB_point.531,Quebec,20231080566,53.1793,-68.8026,2023,2533.902174,Natural,big,4
+NFDB_point.31,British Columbia,2023-N12546,50.1617,-114.995,2023,2512.0,Natural,big,4
+NFDB_point.365,Ontario,SLK54,53.1768,-91.1363,2023,2493.0,Natural,big,4
+NFDB_point.869,PC,2023TH3,62.8605,-107.3331,2023,2465.0,Natural,big,4
+NFDB_point.381,Ontario,SLK18,52.2693,-90.2512,2023,2457.0,Natural,big,4
+NFDB_point.166,British Columbia,2023-G11293,53.4815,-123.8472,2023,2420.0,Natural,big,4
+NFDB_point.484,Quebec,20231080454,50.3846,-72.1813,2023,2417.81528,Natural,big,4
+NFDB_point.58,British Columbia,2023-K21379,52.106,-120.0346,2023,2407.14,Natural,big,4
+NFDB_point.711,Northwest Territories,ZF101-23,64.279433,-115.197217,2023,2382.33,Natural,big,4
+NFDB_point.547,Quebec,20231080607,51.8933,-76.8685,2023,2371.839281,Natural,big,4
+NFDB_point.669,Yukon,2023OC006,66.772196,-137.309415,2023,2352.0,Unknown,big,4
+NFDB_point.32,British Columbia,2023-VA1335,52.8191,-126.6494,2023,2337.6,Natural,big,4
+NFDB_point.151,British Columbia,2023-V82558,49.7641,-125.7,2023,2320.0,Natural,big,4
+NFDB_point.15166,Alberta,LWF148,55.935333,-111.104617,2023,2317.0,Natural,big,4
+NFDB_point.384,Ontario,KLK5,47.5769,-80.248,2023,2300.0,Natural,big,4
+NFDB_point.596,Newfoundland and Labrador,2023-608,52.40322,-65.98835,2023,2300.0,Natural,big,4
+NFDB_point.139,British Columbia,2023-G91933,59.463,-120.0004,2023,2272.0,Unknown,big,4
+NFDB_point.203,British Columbia,2023-R91184,59.7041,-134.2523,2023,2253.27,Human,big,4
+NFDB_point.609,Yukon,2023OT002,59.70392,-134.252167,2023,2246.18,Unknown,big,4
+NFDB_point.371,Ontario,COC30,54.3855,-89.6942,2023,2244.6,Natural,big,4
+NFDB_point.247,Saskatchewan,23BN-AARON,56.565,-109.301833,2023,2240.0,Natural,big,4
+NFDB_point.300,Saskatchewan,23LA-KINO,57.081448,-102.112563,2023,2238.0,Natural,big,4
+NFDB_point.421,Quebec,20231080265,49.4392,-71.5614,2023,2235.287854,Natural,big,4
+NFDB_point.803,Northwest Territories,ZF039-23,65.4942,-114.7059,2023,2200.0,Natural,big,4
+NFDB_point.550,Quebec,20231080613,53.684,-73.786,2023,2195.324878,Natural,big,4
+NFDB_point.422,Quebec,20231080270,49.7389,-68.6353,2023,2185.871868,Natural,big,4
+NFDB_point.756,Northwest Territories,ZF070-23,64.425,-114.475,2023,2179.0,Natural,big,4
+NFDB_point.329,Manitoba,NO021,56.9533,-93.1547,2023,2175.0,Natural,big,4
+NFDB_point.629,Yukon,2023MA040,65.388967,-135.532033,2023,2162.31,Unknown,big,4
+NFDB_point.430,Quebec,20231080287,49.4581,-72.5764,2023,2148.073095,Natural,big,4
+NFDB_point.578,Quebec,20231080478,50.9453,-73.296,2023,2124.5,Natural,big,4
+NFDB_point.571,Quebec,20231080418,48.5694,-76.3225,2023,2105.109197,Natural,big,4
+NFDB_point.758,Northwest Territories,ZF064-23,64.854,-114.641667,2023,2100.0,Natural,big,4
+NFDB_point.597,Newfoundland and Labrador,2023-610,52.39203,-65.107481,2023,2100.0,Natural,big,4
+NFDB_point.516,Quebec,20231080546,55.3215,-68.7827,2023,2074.456063,Natural,big,4
+NFDB_point.128,British Columbia,2023-R21250,54.4102,-126.4153,2023,2061.0,Natural,big,4
+NFDB_point.1,British Columbia,2023-K52813,49.3014,-119.7091,2023,2043.8,Human,big,4
+NFDB_point.322,Manitoba,NO024,56.1592,-91.5933,2023,2030.0,Natural,big,4
+NFDB_point.830,Northwest Territories,EV008-23,65.931283,-131.415,2023,2024.0,Natural,big,4
+NFDB_point.730,Northwest Territories,SS062-23,61.194083,-106.173133,2023,2000.0,Natural,big,4
+NFDB_point.709,Northwest Territories,SS080-23,60.0,-115.9914,2023,2000.0,Natural,big,4
+NFDB_point.733,Northwest Territories,SS066-23,61.530817,-105.94815,2023,2000.0,Natural,big,4
+NFDB_point.736,Northwest Territories,SS065-23,61.401967,-104.759667,2023,2000.0,Natural,big,4
+NFDB_point.652,Yukon,2023MA043,65.410933,-133.381767,2023,1999.97,Unknown,big,4
+NFDB_point.467,Quebec,20231080372,48.7818,-75.2432,2023,1972.809739,Natural,big,4
+NFDB_point.466,Quebec,20231080370,49.2313,-75.3112,2023,1970.015155,Natural,big,4
+NFDB_point.879,PC,2023GL1,51.2619,-117.3568,2023,1956.0,Natural,big,4
+NFDB_point.317,Manitoba,EA059,52.6308,-95.7336,2023,1940.0,Natural,big,4
+NFDB_point.181,British Columbia,2023-V31300,50.6978,-123.4493,2023,1915.0,Natural,big,4
+NFDB_point.157,British Columbia,2023-N12589,49.2067,-115.0082,2023,1909.0,Natural,big,4
+NFDB_point.434,Quebec,20231080302,48.7008,-74.1401,2023,1907.941043,Natural,big,4
+NFDB_point.781,Northwest Territories,VQ025-23,66.992717,-128.746967,2023,1900.0,Natural,big,4
+NFDB_point.448,Quebec,20231080306,50.7043,-70.731,2023,1858.567332,Natural,big,4
+NFDB_point.570,Quebec,20231080410,49.3433,-71.5,2023,1817.6,Natural,big,4
+NFDB_point.639,Yukon,2023DA057,63.376267,-139.616783,2023,1790.01,Natural,big,4
+NFDB_point.643,Yukon,2023MA018,63.132165,-132.844643,2023,1788.19,Natural,big,4
+NFDB_point.9,British Columbia,2023-K22757,51.4623,-119.7008,2023,1771.9,Natural,big,4
+NFDB_point.509,Quebec,20231080533,50.3594,-78.1033,2023,1769.711908,Natural,big,4
+NFDB_point.545,Quebec,20231080604,51.7179,-77.0625,2023,1757.868154,Natural,big,4
+NFDB_point.232,Saskatchewan,23LX-PAWR01,55.3215,-109.799333,2023,1756.5,Natural,big,4
+NFDB_point.868,PC,2023TH1,63.0052,-108.509,2023,1716.0,Natural,big,4
+NFDB_point.75,British Columbia,2023-K20469,52.1381,-119.5694,2023,1711.61,Natural,big,4
+NFDB_point.109,British Columbia,2023-VA1462,52.0616,-125.7398,2023,1708.0,Natural,big,4
+NFDB_point.15150,Alberta,MWF026,57.882533,-111.054033,2023,1703.0,Natural,big,4
+NFDB_point.800,Northwest Territories,ZF037-23,62.7542,-112.2085,2023,1678.0,Natural,big,4
+NFDB_point.607,Yukon,2023RR004,62.816667,-132.566667,2023,1675.63,Unknown,big,4
+NFDB_point.469,Quebec,20231080375,49.5867,-68.4534,2023,1663.465059,Natural,big,4
+NFDB_point.15187,Alberta,MWF055,59.287383,-110.89775,2023,1653.9,Natural,big,4
+NFDB_point.455,Quebec,20231080339,48.4889,-74.8294,2023,1650.399928,Natural,big,4
+NFDB_point.285,Saskatchewan,23DB-TRAILL,55.424983,-103.838133,2023,1645.8,Natural,big,4
+NFDB_point.292,Saskatchewan,23BN-BROAD,56.629214,-108.359585,2023,1645.0,Natural,big,4
+NFDB_point.412,Quebec,20231080226,47.9918,-75.0173,2023,1627.755685,Natural,big,4
+NFDB_point.665,Yukon,2023MA026,63.761733,-133.866833,2023,1624.32,Unknown,big,4
+NFDB_point.357,Ontario,HEA18,50.1384,-82.3944,2023,1607.5,Natural,big,4
+NFDB_point.779,Northwest Territories,ZF049-23,63.5625,-112.2884,2023,1591.69,Natural,big,4
+NFDB_point.71,British Columbia,2023-G52955,55.0552,-125.641,2023,1590.6,Natural,big,4
+NFDB_point.227,Saskatchewan,23WY-MEYAK,54.82195,-105.7656,2023,1570.0,Human,big,4
+NFDB_point.702,Yukon,2023DA054,65.439383,-136.036617,2023,1557.09,Unknown,big,4
+NFDB_point.15137,Alberta,MWF022,57.7063,-113.125317,2023,1552.0,Natural,big,4
+NFDB_point.427,Quebec,20231080279,50.7482,-70.1974,2023,1551.551681,Natural,big,4
+NFDB_point.472,Quebec,20231080382,48.2969,-76.1019,2023,1542.084565,Natural,big,4
+NFDB_point.795,Northwest Territories,VQ021-23,65.660067,-126.841267,2023,1542.0,Natural,big,4
+NFDB_point.267,Saskatchewan,23SR-ANDERSON,59.041333,-102.53515,2023,1536.5,Natural,big,4
+NFDB_point.883,PC,2023WB21,58.2461,-113.7738,2023,1525.0,Natural,big,4
+NFDB_point.185,British Columbia,2023-V12722,49.1089,-121.2662,2023,1517.7,Natural,big,4
+NFDB_point.397,Ontario,NIP24,52.2812,-86.2882,2023,1515.3,Natural,big,4
+NFDB_point.891,PC,2023TH4,62.3408,-109.1399,2023,1507.0,Unknown,big,4
+NFDB_point.15,British Columbia,2023-G51474,54.7353,-125.1753,2023,1503.4,Natural,big,4
+NFDB_point.15154,Alberta,SWF058,54.893733,-115.664967,2023,1500.0,Natural,big,4
+NFDB_point.319,Manitoba,NO019,56.6264,-91.7167,2023,1500.0,Natural,big,4
+NFDB_point.305,Saskatchewan,23BN-HILLS,55.982667,-109.2232,2023,1500.0,Natural,big,4
+NFDB_point.505,Quebec,20231080519,49.9168,-79.3999,2023,1489.012282,Natural,big,4
+NFDB_point.406,Ontario,COC46,50.9907,-85.0603,2023,1473.9,Natural,big,4
+NFDB_point.622,Yukon,2023RR011,62.907333,-133.912667,2023,1466.25,Unknown,big,4
+NFDB_point.150,British Columbia,2023-N71918,49.3602,-116.2142,2023,1457.0,Natural,big,4
+NFDB_point.257,Saskatchewan,23LA-SUTTLE,56.52935,-105.531183,2023,1456.2,Natural,big,4
+NFDB_point.301,Saskatchewan,23SR-EISEN2,59.110383,-104.8664,2023,1445.0,Natural,big,4
+NFDB_point.177,British Columbia,2023-R21178,54.3053,-126.7612,2023,1444.72,Natural,big,4
+NFDB_point.513,Quebec,20231080540,53.4431,-72.7168,2023,1434.433794,Natural,big,4
+NFDB_point.867,PC,2023TH2,63.1422,-107.6286,2023,1426.0,Natural,big,4
+NFDB_point.15193,Alberta,HWF065,57.552833,-114.924917,2023,1425.0,Natural,big,4
+NFDB_point.553,Quebec,20231080621,52.6198,-77.0026,2023,1408.869109,Natural,big,4
+NFDB_point.813,Northwest Territories,FS019-23,60.7707,-121.0307,2023,1400.0,Natural,big,4
+NFDB_point.137,British Columbia,2023-R11378,54.3421,-125.293,2023,1400.0,Natural,big,4
+NFDB_point.880,PC,2023NA2,60.9682,-126.6807,2023,1400.0,Natural,big,4
+NFDB_point.168,British Columbia,2023-C51981,52.2005,-123.4805,2023,1400.0,Natural,big,4
+NFDB_point.677,Yukon,2023MA041,65.677865,-135.754957,2023,1399.02,Unknown,big,4
+NFDB_point.792,Northwest Territories,SS050-23,60.841067,-110.3106,2023,1396.0,Natural,big,4
+NFDB_point.628,Yukon,2023WL003,60.459967,-125.971867,2023,1394.16,Natural,big,4
+NFDB_point.393,Ontario,COC53,51.5625,-84.8141,2023,1383.0,Natural,big,4
+NFDB_point.435,Quebec,20231080219,53.1669,-75.2666,2023,1381.5,Natural,big,4
+NFDB_point.293,Saskatchewan,23BN-BENT,56.71475,-108.353717,2023,1371.0,Natural,big,4
+NFDB_point.131,British Columbia,2023-N72170,50.6931,-117.1213,2023,1337.0,Natural,big,4
+NFDB_point.811,Northwest Territories,FS021-23,60.7423,-120.5908,2023,1320.0,Natural,big,4
+NFDB_point.555,Quebec,20231080626,51.5402,-76.892,2023,1311.924101,Natural,big,4
+NFDB_point.70,British Columbia,2023-C51974,52.0612,-123.4915,2023,1306.0,Natural,big,4
+NFDB_point.755,Northwest Territories,ZF061-23,65.158333,-109.934167,2023,1300.0,Natural,big,4
+NFDB_point.14,British Columbia,2023-C11243,53.0419,-123.4067,2023,1297.6,Natural,big,4
+NFDB_point.22,British Columbia,2023-N12046,49.7128,-114.9208,2023,1295.0,Natural,big,4
+NFDB_point.360,Ontario,SUD10,46.5705,-81.8123,2023,1291.9,Natural,big,4
+NFDB_point.48,British Columbia,2023-C11405,52.74,-125.0359,2023,1282.0,Natural,big,4
+NFDB_point.862,Northwest Territories,VQ-057,64.49806714,-121.0102088,2023,1271.3,Unknown,big,4
+NFDB_point.326,Manitoba,EA005,51.955,-99.6419,2023,1269.0,Human,big,4
+NFDB_point.87,British Columbia,2023-N42074,51.0961,-118.4314,2023,1265.3,Natural,big,4
+NFDB_point.559,Quebec,20231080643,56.7081,-66.9035,2023,1265.03059,Natural,big,4
+NFDB_point.625,Yukon,2023XY019,60.826467,-135.7492,2023,1264.98,Unknown,big,4
+NFDB_point.211,British Columbia,2023-R23091,53.4993,-127.0712,2023,1255.0,Natural,big,4
+NFDB_point.683,Yukon,2023MA010,64.084317,-136.7934,2023,1249.97,Unknown,big,4
+NFDB_point.33,British Columbia,2023-G73406,55.6319,-121.4276,2023,1246.0,Natural,big,4
+NFDB_point.366,Ontario,COC6,48.9088,-80.3046,2023,1239.0,Natural,big,4
+NFDB_point.216,British Columbia,2023-C53002,52.0622,-123.5597,2023,1235.3,Human,big,4
+NFDB_point.552,Quebec,20231080619,54.2242,-77.3654,2023,1231.77114,Natural,big,4
+NFDB_point.376,Ontario,CHA6,48.1642,-83.812,2023,1229.0,Natural,big,4
+NFDB_point.805,Northwest Territories,ZF035-23,62.5917,-112.7354,2023,1227.0,Natural,big,4
+NFDB_point.447,Quebec,20231080305,49.7233,-72.6094,2023,1225.30997,Natural,big,4
+NFDB_point.156,British Columbia,2023-V83128,49.5076,-125.5733,2023,1217.1,Natural,big,4
+NFDB_point.546,Quebec,20231080605,52.7548,-76.9695,2023,1202.044934,Natural,big,4
+NFDB_point.15202,Alberta,MWF040,57.408,-113.496,2023,1200.0,Natural,big,4
+NFDB_point.598,Newfoundland and Labrador,2023-612,52.09927,-58.91296,2023,1200.0,Natural,big,4
+NFDB_point.746,Northwest Territories,VQ037-23,66.6366,-127.456183,2023,1185.09,Natural,big,4
+NFDB_point.362,Ontario,RED70,52.3064,-94.8182,2023,1178.8,Natural,big,4
+NFDB_point.104,British Columbia,2023-R92525,59.4578,-132.8638,2023,1171.95,Natural,big,4
+NFDB_point.15195,Alberta,HWF102,58.7211,-115.859167,2023,1166.5,Natural,big,4
+NFDB_point.72,British Columbia,2023-N40596,52.0451,-118.7021,2023,1160.0,Natural,big,4
+NFDB_point.349,Manitoba,NO089,57.475,-95.5261,2023,1150.0,Natural,big,4
+NFDB_point.249,Saskatchewan,23LX-CENTIPEDE,56.257973,-107.311968,2023,1148.0,Natural,big,4
+NFDB_point.21,British Columbia,2023-G41560,53.4541,-124.2051,2023,1144.3,Natural,big,4
+NFDB_point.234,Saskatchewan,23LA-DECEPTION,56.554133,-104.258291,2023,1143.7,Natural,big,4
+NFDB_point.590,Quebec,20231080589,53.2592,-76.9775,2023,1143.3,Natural,big,4
+NFDB_point.562,Quebec,20231080309,48.7808,-76.2869,2023,1136.3,Natural,big,4
+NFDB_point.425,Quebec,20231080275,48.6549,-72.8672,2023,1135.814196,Natural,big,4
+NFDB_point.200,British Columbia,2023-K53294,49.771,-119.9618,2023,1116.2,Human,big,4
+NFDB_point.624,Yukon,2023DA017,63.879796,-139.370332,2023,1105.4,Natural,big,4
+NFDB_point.682,Yukon,2023OC015,67.272133,-137.73987,2023,1105.24,Unknown,big,4
+NFDB_point.556,Quebec,20231080628,53.541,-78.1303,2023,1103.056343,Natural,big,4
+NFDB_point.121,British Columbia,2023-G11532,54.9614,-122.6221,2023,1100.0,Natural,big,4
+NFDB_point.3,British Columbia,2023-G30210,53.2884,-120.0705,2023,1100.0,Human,big,4
+NFDB_point.339,Manitoba,WE023,55.1442,-99.3611,2023,1100.0,Natural,big,4
+NFDB_point.345,Manitoba,NO085,57.8178,-96.9844,2023,1100.0,Natural,big,4
+NFDB_point.747,Northwest Territories,ZF087-23,64.450833,-111.4855,2023,1100.0,Natural,big,4
+NFDB_point.438,Quebec,20231080232,49.3691,-72.0674,2023,1096.8,Natural,big,4
+NFDB_point.843,Northwest Territories,SS028-23,61.291383,-103.7911,2023,1093.0,Natural,big,4
+NFDB_point.464,Quebec,20231080361,47.1305,-73.7272,2023,1092.549941,Natural,big,4
+NFDB_point.721,Northwest Territories,VQ044-23,65.73945,-117.95255,2023,1089.0,Natural,big,4
+NFDB_point.280,Saskatchewan,23SR-BENTLEY,58.930803,-103.060627,2023,1076.8,Natural,big,4
+NFDB_point.286,Saskatchewan,23LA-NICOLE,55.904871,-105.559947,2023,1056.0,Natural,big,4
+NFDB_point.205,British Columbia,2023-N52251,50.6177,-117.2668,2023,1038.0,Natural,big,4
+NFDB_point.15140,Alberta,SWF059,56.054333,-115.008333,2023,1036.0,Natural,big,4
+NFDB_point.15171,Alberta,SWF087,55.226583,-114.2757,2023,1036.0,Unknown,big,4
+NFDB_point.606,Yukon,2023DA024,64.610467,-139.81565,2023,1028.67,Unknown,big,4
+NFDB_point.125,British Columbia,2023-K72705,50.3647,-122.0244,2023,1015.5,Natural,big,4
+NFDB_point.748,Northwest Territories,ZF078-23,63.13387443,-107.6224221,2023,1000.0,Natural,big,4
+NFDB_point.348,Manitoba,EA076,53.1089,-96.5064,2023,1000.0,Natural,big,4
+NFDB_point.528,Quebec,20231080562,56.4464,-68.3353,2023,990.843079,Natural,medium,2
+NFDB_point.515,Quebec,20231080543,54.8165,-72.3633,2023,990.6326078,Natural,medium,2
+NFDB_point.605,Yukon,2023MA049,63.911283,-132.949933,2023,990.27,Unknown,medium,2
+NFDB_point.268,Saskatchewan,23SR-KINGSTON,58.9695,-102.534767,2023,985.0,Natural,medium,2
+NFDB_point.263,Saskatchewan,23SR-KILLOCK,58.614383,-103.211483,2023,980.2,Natural,medium,2
+NFDB_point.700,Yukon,2023DA044,65.263311,-136.47372,2023,973.75,Unknown,medium,2
+NFDB_point.258,Saskatchewan,23LA-FOSTER,56.437983,-105.718733,2023,971.0,Natural,medium,2
+NFDB_point.603,Nova Scotia,09-011-2023,44.72330093,-63.87649918,2023,969.5300293,Human,medium,2
+NFDB_point.208,British Columbia,2023-C30399,52.6166,-121.0711,2023,964.0,Natural,medium,2
+NFDB_point.657,Yukon,2023MA017,63.563083,-133.95665,2023,963.93,Natural,medium,2
+NFDB_point.152,British Columbia,2023-N22370,50.9437,-116.4795,2023,960.0,Natural,medium,2
+NFDB_point.627,Yukon,2023MA013,63.4061,-135.313567,2023,956.07,Unknown,medium,2
+NFDB_point.442,Quebec,20231080252,49.545,-69.7334,2023,944.8,Natural,medium,2
+NFDB_point.431,Quebec,20231080295,49.6938,-72.585,2023,934.5741834,Natural,medium,2
+NFDB_point.663,Yukon,2023DA052,64.135967,-137.834833,2023,926.62,Natural,medium,2
+NFDB_point.798,Northwest Territories,EV023-23,68.02685,-129.993017,2023,920.0,Natural,medium,2
+NFDB_point.127,British Columbia,2023-R13093,53.3021,-126.7535,2023,913.0,Natural,medium,2
+NFDB_point.708,Yukon,2023MA034,63.60305,-136.166683,2023,912.03,Natural,medium,2
+NFDB_point.108,British Columbia,2023-VA2884,52.2916,-126.0645,2023,900.0,Natural,medium,2
+NFDB_point.159,British Columbia,2023-N72369,50.8046,-117.3171,2023,890.0,Natural,medium,2
+NFDB_point.17,British Columbia,2023-G91467,59.2839,-122.1495,2023,888.01,Natural,medium,2
+NFDB_point.518,Quebec,20231080548,56.8663,-66.1602,2023,882.3882588,Natural,medium,2
+NFDB_point.713,Northwest Territories,SS073-23,60.52395,-113.7263,2023,882.0,Natural,medium,2
+NFDB_point.173,British Columbia,2023-N52156,50.462,-117.5974,2023,876.0,Natural,medium,2
+NFDB_point.408,Quebec,20231080213,49.7371,-74.9946,2023,874.0967305,Human,medium,2
+NFDB_point.15189,Alberta,GWF035,55.583557,-119.404602,2023,872.0,Unknown,medium,2
+NFDB_point.102,British Columbia,2023-N52393,50.3582,-117.6146,2023,868.0,Natural,medium,2
+NFDB_point.355,Manitoba,NO117,56.8086,-100.829,2023,853.0,Natural,medium,2
+NFDB_point.328,Manitoba,EA041,52.5019,-95.5689,2023,850.0,Natural,medium,2
+NFDB_point.667,Yukon,2023MA019,63.11085,-134.796333,2023,843.61,Natural,medium,2
+NFDB_point.615,Yukon,2023CA005,62.9816,-134.404333,2023,830.72,Natural,medium,2
+NFDB_point.632,Yukon,2023RR001,62.193817,-130.88595,2023,829.12,Unknown,medium,2
+NFDB_point.471,Quebec,20231080381,48.4286,-69.8294,2023,827.3486835,Natural,medium,2
+NFDB_point.388,Ontario,SLK19,52.0922,-89.2822,2023,824.8,Natural,medium,2
+NFDB_point.681,Yukon,2023OC012,67.708262,-139.89993,2023,824.0,Unknown,medium,2
+NFDB_point.680,Yukon,2023CA010,62.655817,-135.959617,2023,823.06,Unknown,medium,2
+NFDB_point.42,British Columbia,2023-G50912,55.7693,-126.3755,2023,816.9,Natural,medium,2
+NFDB_point.520,Quebec,20231080552,54.1526,-70.1657,2023,805.8621038,Natural,medium,2
+NFDB_point.390,Ontario,COC11,52.1823,-81.8548,2023,805.0,Unknown,medium,2
+NFDB_point.49,British Columbia,2023-V11256,49.2088,-121.383,2023,805.0,Natural,medium,2
+NFDB_point.13,British Columbia,2023-G90776,58.2226,-123.8847,2023,804.46,Natural,medium,2
+NFDB_point.35,British Columbia,2023-G41569,53.675,-124.3337,2023,801.1,Natural,medium,2
+NFDB_point.350,Manitoba,NO095,54.0097,-96.8203,2023,800.2,Natural,medium,2
+NFDB_point.753,Northwest Territories,ZF071-23,64.470833,-114.679167,2023,800.0,Natural,medium,2
+NFDB_point.617,Yukon,2023DA027,65.577067,-138.015667,2023,800.0,Unknown,medium,2
+NFDB_point.223,Saskatchewan,23LF-ROCKY,53.701691,-104.596457,2023,794.0,Human,medium,2
+NFDB_point.405,Ontario,COC1,51.5566,-85.3216,2023,781.4,Natural,medium,2
+NFDB_point.189,British Columbia,2023-R51712,53.0898,-127.5075,2023,770.0,Unknown,medium,2
+NFDB_point.482,Quebec,20231080451,49.7678,-73.3866,2023,769.4204852,Natural,medium,2
+NFDB_point.6,British Columbia,2023-V10588,49.4837,-121.9887,2023,767.2,Human,medium,2
+NFDB_point.818,Northwest Territories,VQ016-23,65.170883,-120.116317,2023,767.0,Natural,medium,2
+NFDB_point.91,British Columbia,2023-R90857,57.3586,-129.0278,2023,762.36,Natural,medium,2
+NFDB_point.719,Northwest Territories,FS027-23,63.091667,-124.0185,2023,760.0,Natural,medium,2
+NFDB_point.220,Saskatchewan,23PA-LILLY,53.0138,-106.190767,2023,754.0,Human,medium,2
+NFDB_point.338,Manitoba,NO042,56.6606,-98.3983,2023,749.2,Natural,medium,2
+NFDB_point.837,Northwest Territories,EV007-23,65.97915,-131.60745,2023,745.56,Natural,medium,2
+NFDB_point.52,British Columbia,2023-G41422,53.9829,-124.8257,2023,736.6,Natural,medium,2
+NFDB_point.212,British Columbia,2023-K52808,49.9343,-119.4611,2023,733.0,Unknown,medium,2
+NFDB_point.574,Quebec,20231080433,49.0639,-75.0464,2023,726.3,Natural,medium,2
+NFDB_point.487,Quebec,20231080459,51.5557,-71.4264,2023,725.7833628,Natural,medium,2
+NFDB_point.294,Saskatchewan,23LA-MULLIN,57.5828,-103.348433,2023,716.0,Natural,medium,2
+NFDB_point.193,British Columbia,2023-N22508,50.4956,-115.3742,2023,711.0,Natural,medium,2
+NFDB_point.112,British Columbia,2023-N71835,50.2359,-116.8421,2023,709.0,Natural,medium,2
+NFDB_point.409,Quebec,20231080215,50.3743,-66.3849,2023,706.2141913,Human,medium,2
+NFDB_point.43,British Columbia,2023-G93120,58.7596,-127.7105,2023,700.0,Natural,medium,2
+NFDB_point.265,Saskatchewan,23LA-CHURCH,55.752129,-106.22122,2023,698.0,Natural,medium,2
+NFDB_point.558,Quebec,20231080633,57.9732,-68.5217,2023,695.4928029,Natural,medium,2
+NFDB_point.532,Quebec,20231080569,56.8518,-66.2846,2023,690.4908214,Natural,medium,2
+NFDB_point.307,Saskatchewan,23BN-GARSON,56.170922,-109.592501,2023,689.0,Natural,medium,2
+NFDB_point.454,Quebec,20231080337,46.5953,-77.3601,2023,680.8097801,Natural,medium,2
+NFDB_point.794,Northwest Territories,ZF048-23,62.4296,-105.9499,2023,678.0,Natural,medium,2
+NFDB_point.98,British Columbia,2023-G83130,58.2204,-121.7444,2023,673.0,Natural,medium,2
+NFDB_point.310,Manitoba,NO072,54.555,-96.5514,2023,663.3,Natural,medium,2
+NFDB_point.306,Saskatchewan,23BN-LINVALL,56.361978,-109.013426,2023,660.0,Natural,medium,2
+NFDB_point.303,Saskatchewan,23DB-DEER,55.841219,-103.025465,2023,656.0,Natural,medium,2
+NFDB_point.372,Ontario,COC32,54.6032,-85.1801,2023,653.2,Natural,medium,2
+NFDB_point.144,British Columbia,2023-K71707,50.1667,-122.0922,2023,651.0,Natural,medium,2
+NFDB_point.557,Quebec,20231080629,58.1374,-67.4721,2023,650.2204949,Natural,medium,2
+NFDB_point.475,Quebec,20231080408,49.6003,-71.6019,2023,644.065788,Natural,medium,2
+NFDB_point.120,British Columbia,2023-N42390,51.5235,-117.5588,2023,644.0,Natural,medium,2
+NFDB_point.745,Northwest Territories,VQ039-23,65.369917,-125.279483,2023,643.0,Natural,medium,2
+NFDB_point.817,Northwest Territories,SS023-23,61.208333,-113.203883,2023,641.0,Natural,medium,2
+NFDB_point.50,British Columbia,2023-R31465,55.3867,-126.7215,2023,639.0,Natural,medium,2
+NFDB_point.644,Yukon,2023TE001,60.7585,-133.753167,2023,636.06,Unknown,medium,2
+NFDB_point.699,Yukon,2023DA028,65.861501,-137.15107,2023,626.78,Unknown,medium,2
+NFDB_point.496,Quebec,20231080481,49.032,-75.3513,2023,623.271077,Natural,medium,2
+NFDB_point.649,Yukon,2023DA010,63.445925,-140.420342,2023,621.08,Natural,medium,2
+NFDB_point.623,Yukon,2023MA020,63.752601,-132.29139,2023,621.04,Natural,medium,2
+NFDB_point.772,Northwest Territories,ZF056-23,65.430833,-115.251667,2023,600.0,Natural,medium,2
+NFDB_point.882,PC,2023VU1,68.4036,-138.8071,2023,600.0,Unknown,medium,2
+NFDB_point.654,Yukon,2023DA043,65.383333,-136.594515,2023,590.37,Unknown,medium,2
+NFDB_point.207,British Columbia,2023-N72350,50.4515,-117.0131,2023,590.0,Natural,medium,2
+NFDB_point.262,Saskatchewan,23LA-ISLAND,55.645833,-105.610167,2023,590.0,Natural,medium,2
+NFDB_point.138,British Columbia,2023-K71778,50.7831,-121.8895,2023,589.0,Natural,medium,2
+NFDB_point.646,Yukon,2023DA050,63.938183,-140.282867,2023,582.59,Unknown,medium,2
+NFDB_point.541,Quebec,20231080598,52.4825,-78.2353,2023,580.9171164,Natural,medium,2
+NFDB_point.15158,Alberta,EWF037,53.91005,-117.55905,2023,578.0,Natural,medium,2
+NFDB_point.715,Northwest Territories,ZF099-23,63.31555,-116.6845,2023,572.0,Natural,medium,2
+NFDB_point.368,Ontario,COC19,49.6071,-79.7037,2023,570.2,Natural,medium,2
+NFDB_point.15200,Alberta,MWF038,57.460167,-113.390167,2023,569.0,Natural,medium,2
+NFDB_point.297,Saskatchewan,23LA-CAIRNS,57.6443,-103.340667,2023,564.9,Natural,medium,2
+NFDB_point.352,Manitoba,NO106,56.9414,-99.1797,2023,563.1,Natural,medium,2
+NFDB_point.642,Yukon,2023MA048,64.271108,-134.2267,2023,557.89,Unknown,medium,2
+NFDB_point.641,Yukon,2023MA044,65.023871,-134.817319,2023,557.3,Unknown,medium,2
+NFDB_point.19,British Columbia,2023-R31512,55.0104,-127.4476,2023,556.13,Natural,medium,2
+NFDB_point.633,Yukon,2023MA022,63.496861,-132.841242,2023,555.66,Unknown,medium,2
+NFDB_point.341,Manitoba,NO055,54.3497,-98.4075,2023,554.0,Natural,medium,2
+NFDB_point.323,Manitoba,EA050,53.0383,-96.8603,2023,554.0,Natural,medium,2
+NFDB_point.695,Yukon,2023OC027,68.397133,-138.79745,2023,549.79,Natural,medium,2
+NFDB_point.312,Manitoba,NO074,54.5114,-96.9144,2023,543.0,Natural,medium,2
+NFDB_point.404,Ontario,COC39,50.4308,-81.2076,2023,542.7,Natural,medium,2
+NFDB_point.855,Northwest Territories,FS005-23,62.853317,-124.842067,2023,540.0,Natural,medium,2
+NFDB_point.29,British Columbia,2023-C40384,51.6366,-121.9257,2023,536.0,Natural,medium,2
+NFDB_point.269,Saskatchewan,23SR-MCCRADY,58.7195,-108.639017,2023,536.0,Natural,medium,2
+NFDB_point.378,Ontario,RED32,52.1375,-94.6138,2023,535.6,Natural,medium,2
+NFDB_point.346,Manitoba,NO086,55.8011,-100.99,2023,534.8,Natural,medium,2
+NFDB_point.15205,Alberta,SWF067,55.022167,-115.8975,2023,534.0,Natural,medium,2
+NFDB_point.549,Quebec,20231080611,55.6812,-74.9027,2023,533.4576584,Natural,medium,2
+NFDB_point.361,Ontario,RED27,51.2427,-92.707,2023,527.8,Natural,medium,2
+NFDB_point.704,Yukon,2023MA032,63.602133,-135.027967,2023,527.14,Unknown,medium,2
+NFDB_point.705,Yukon,2023DA053,65.807476,-136.065396,2023,520.51,Unknown,medium,2
+NFDB_point.82,British Columbia,2023-R31585,55.0761,-126.7662,2023,520.0,Natural,medium,2
+NFDB_point.155,British Columbia,2023-N72419,50.742,-117.0683,2023,519.0,Natural,medium,2
+NFDB_point.717,Northwest Territories,ZF097-23,62.767217,-103.574433,2023,517.2,Natural,medium,2
+NFDB_point.722,Northwest Territories,ZF093-23,62.673333,-113.3007,2023,513.0,Natural,medium,2
+NFDB_point.164,British Columbia,2023-R51711,53.114,-127.599,2023,512.0,Unknown,medium,2
+NFDB_point.635,Yukon,2023OC010,67.313087,-139.732345,2023,509.22,Unknown,medium,2
+NFDB_point.295,Saskatchewan,23DB-LAIRD,56.232583,-102.134717,2023,506.0,Natural,medium,2
+NFDB_point.601,New Brunswick,CH-6-8-145,45.18083,-66.97483,2023,504.0,Human,medium,2
+NFDB_point.103,British Columbia,2023-G41149,54.212,-124.2843,2023,501.06,Natural,medium,2
+NFDB_point.288,Saskatchewan,23SR-MANSON,58.615433,-103.240033,2023,500.1,Natural,medium,2
+NFDB_point.600,Newfoundland and Labrador,2023-616,53.8739,-66.42141,2023,500.0,Natural,small,1
+NFDB_point.765,Northwest Territories,SS059-23,60.2394,-106.809117,2023,500.0,Natural,small,1
+NFDB_point.347,Manitoba,NO090,57.7817,-97.7894,2023,500.0,Natural,small,1
+NFDB_point.446,Quebec,20231080296,49.2278,-76.5567,2023,500.0,Natural,small,1
+NFDB_point.154,British Columbia,2023-G90810,57.651,-123.6047,2023,500.0,Natural,small,1
+NFDB_point.612,Yukon,2023DA002,65.473086,-138.158995,2023,493.47,Natural,small,1
+NFDB_point.291,Saskatchewan,23SR-PREMIER,59.833133,-106.16583,2023,493.0,Natural,small,1
+NFDB_point.521,Quebec,20231080554,56.9231,-66.0654,2023,482.2078775,Natural,small,1
+NFDB_point.153,British Columbia,2023-K73066,50.3079,-122.044,2023,480.37,Natural,small,1
+NFDB_point.180,British Columbia,2023-K51680,49.1341,-119.9525,2023,480.0,Natural,small,1
+NFDB_point.115,British Columbia,2023-N72365,50.1718,-116.7934,2023,479.0,Natural,small,1
+NFDB_point.666,Yukon,2023MA047,63.1636,-135.178983,2023,479.0,Unknown,small,1
+NFDB_point.15156,Alberta,HWF135,57.644173,-114.131117,2023,476.9,Natural,small,1
+NFDB_point.691,Yukon,2023OT004,59.934129,-127.74958,2023,475.74,Natural,small,1
+NFDB_point.686,Yukon,2023OC030,67.463174,-136.682325,2023,475.0,Unknown,small,1
+NFDB_point.530,Quebec,20231080564,54.3862,-70.4393,2023,466.2990544,Natural,small,1
+NFDB_point.687,Yukon,2023RR003,61.683967,-130.757733,2023,463.69,Natural,small,1
+NFDB_point.123,British Columbia,2023-N72730,50.0903,-116.757,2023,463.0,Natural,small,1
+NFDB_point.395,Ontario,SUD19,46.7506,-81.9973,2023,459.0,Natural,small,1
+NFDB_point.678,Yukon,2023MA014,64.100413,-133.526893,2023,454.49,Unknown,small,1
+NFDB_point.15146,Alberta,PWF034,56.545183,-119.4788,2023,454.4,Human,small,1
+NFDB_point.62,British Columbia,2023-G51411,55.3288,-125.3514,2023,451.6,Natural,small,1
+NFDB_point.340,Manitoba,NO047,56.6342,-101.909,2023,451.0,Natural,small,1
+NFDB_point.256,Saskatchewan,23LA-DALY,56.50095,-105.609367,2023,450.0,Natural,small,1
+NFDB_point.809,Northwest Territories,SS061-23,60.529767,-103.398867,2023,450.0,Natural,small,1
+NFDB_point.573,Quebec,20231080420,48.6904,-76.3569,2023,450.0,Natural,small,1
+NFDB_point.353,Manitoba,NO104,58.8442,-101.107,2023,450.0,Natural,small,1
+NFDB_point.659,Yukon,2023OC003,66.780617,-137.255617,2023,450.0,Natural,small,1
+NFDB_point.865,PC,2023WP1,57.2509,-93.4627,2023,450.0,Natural,small,1
+NFDB_point.74,British Columbia,2023-N42102,51.0106,-116.3746,2023,449.0,Natural,small,1
+NFDB_point.592,Quebec,20231080622,53.1408,-76.8378,2023,448.5,Natural,small,1
+NFDB_point.382,Ontario,SLK29,52.106,-89.8102,2023,446.6,Natural,small,1
+NFDB_point.662,Yukon,2023DA041,65.567633,-136.681,2023,442.6,Unknown,small,1
+NFDB_point.452,Quebec,20231080326,49.6598,-69.9722,2023,442.2771979,Natural,small,1
+NFDB_point.171,British Columbia,2023-V93289,51.7347,-125.8142,2023,433.0,Natural,small,1
+NFDB_point.636,Yukon,2023MA016,64.08295,-132.398183,2023,432.0,Natural,small,1
+NFDB_point.351,Manitoba,NO097,54.5494,-96.5622,2023,430.0,Natural,small,1
+NFDB_point.169,British Columbia,2023-R11274,54.4547,-125.2762,2023,428.0,Natural,small,1
+NFDB_point.199,British Columbia,2023-V82787,49.5919,-126.2774,2023,425.0,Unknown,small,1
+NFDB_point.238,Saskatchewan,23PA-SLIR03,53.38445,-106.103533,2023,424.7,Human,small,1
+NFDB_point.671,Yukon,2023DA058,64.552581,-140.343781,2023,421.54,Unknown,small,1
+NFDB_point.113,British Columbia,2023-R13068,53.4286,-126.9397,2023,419.0,Natural,small,1
+NFDB_point.651,Yukon,2023OC009,67.532533,-139.676667,2023,416.31,Natural,small,1
+NFDB_point.808,Northwest Territories,ZF045-23,62.7653,-102.0207,2023,416.0,Natural,small,1
+NFDB_point.187,British Columbia,2023-V53027,49.7123,-123.5527,2023,415.5,Natural,small,1
+NFDB_point.320,Manitoba,NO023,56.5839,-91.1519,2023,414.4,Natural,small,1
+NFDB_point.135,British Columbia,2023-N52009,50.7671,-117.475,2023,413.0,Natural,small,1
+NFDB_point.133,British Columbia,2023-V33029,50.3991,-122.6656,2023,410.0,Natural,small,1
+NFDB_point.359,Ontario,COC52,51.4104,-82.1242,2023,408.6,Natural,small,1
+NFDB_point.441,Quebec,20231080250,47.9098,-75.772,2023,400.0,Natural,small,1
+NFDB_point.850,Northwest Territories,VQ004-23,64.9371,-124.199483,2023,400.0,Natural,small,1
+NFDB_point.676,Yukon,2023HJ004,61.380776,-139.11336,2023,399.87,Human,small,1
+NFDB_point.146,British Columbia,2023-V31726,50.7078,-123.3159,2023,399.0,Natural,small,1
+NFDB_point.694,Yukon,2023MA030,63.769983,-135.9885,2023,399.0,Unknown,small,1
+NFDB_point.679,Yukon,2023DA009,64.009233,-140.6619,2023,398.92,Natural,small,1
+NFDB_point.330,Manitoba,EA057,53.1078,-96.5069,2023,394.0,Natural,small,1
+NFDB_point.474,Quebec,20231080393,48.0518,-74.0329,2023,391.1966731,Natural,small,1
+NFDB_point.801,Northwest Territories,ZF036-23,62.6353,-112.4867,2023,386.0,Natural,small,1
+NFDB_point.8,British Columbia,2023-G80175,56.5319,-121.9246,2023,385.0,Human,small,1
+NFDB_point.178,British Columbia,2023-N72824,50.123,-116.6149,2023,383.0,Natural,small,1
+NFDB_point.630,Yukon,2023RR013,62.450667,-131.000833,2023,382.75,Unknown,small,1
+NFDB_point.457,Quebec,20231080350,48.1387,-75.3082,2023,379.8446137,Natural,small,1
+NFDB_point.161,British Columbia,2023-C11319,52.971,-124.6291,2023,376.0,Natural,small,1
+NFDB_point.696,Yukon,2023DA055,63.692483,-140.369462,2023,375.84,Natural,small,1
+NFDB_point.194,British Columbia,2023-G62150,55.8255,-123.1873,2023,375.53,Natural,small,1
+NFDB_point.302,Saskatchewan,23LA-ERROL,55.9852,-103.254533,2023,374.5,Human,small,1
+NFDB_point.215,British Columbia,2023-K42815,50.0275,-119.4413,2023,372.6,Natural,small,1
+NFDB_point.149,British Columbia,2023-N52138,50.6323,-117.2956,2023,372.0,Natural,small,1
+NFDB_point.524,Quebec,20231080557,53.8925,-74.0035,2023,369.1775868,Natural,small,1
+NFDB_point.191,British Columbia,2023-N72833,50.1619,-117.139,2023,366.0,Natural,small,1
+NFDB_point.473,Quebec,20231080385,49.714,-69.0925,2023,364.7038489,Natural,small,1
+NFDB_point.100,British Columbia,2023-G60603,55.912,-123.1348,2023,363.88,Natural,small,1
+NFDB_point.114,British Columbia,2023-R11238,54.0775,-126.1776,2023,359.0,Natural,small,1
+NFDB_point.224,Saskatchewan,23HB-DELTA,53.960517,-102.40425,2023,359.0,Human,small,1
+NFDB_point.514,Quebec,20231080541,56.9319,-67.5871,2023,357.2212301,Natural,small,1
+NFDB_point.84,British Columbia,2023-G12002,54.609,-121.7952,2023,351.7,Natural,small,1
+NFDB_point.675,Yukon,2023MA029,64.155833,-135.8625,2023,351.0,Unknown,small,1
+NFDB_point.36,British Columbia,2023-G91355,59.669,-122.625,2023,350.0,Natural,small,1
+NFDB_point.799,Northwest Territories,EV013-23,68.617733,-129.82375,2023,350.0,Natural,small,1
+NFDB_point.608,Yukon,2023DA004,65.734017,-140.689767,2023,350.0,Unknown,small,1
+NFDB_point.572,Quebec,20231080419,48.725,-76.3147,2023,350.0,Natural,small,1
+NFDB_point.356,Manitoba,NO129,57.3806,-101.626,2023,350.0,Natural,small,1
+NFDB_point.710,Northwest Territories,SS074-23,60.984167,-102.544333,2023,350.0,Natural,small,1
+NFDB_point.76,British Columbia,2023-K21382,52.1472,-120.0256,2023,350.0,Natural,small,1
+NFDB_point.15198,Alberta,HWF124,59.046633,-117.080833,2023,346.2,Natural,small,1
+NFDB_point.273,Saskatchewan,23BN-PARKER,56.807933,-108.705267,2023,345.0,Natural,small,1
+NFDB_point.749,Northwest Territories,ZF067-23,64.4625,-113.122167,2023,342.0,Natural,small,1
+NFDB_point.476,Quebec,20231080411,49.2767,-71.8114,2023,341.9103546,Natural,small,1
+NFDB_point.40,British Columbia,2023-C11892,52.9119,-125.4362,2023,341.9,Natural,small,1
+NFDB_point.888,PC,2023WB4,58.3837,-112.2474,2023,339.0,Natural,small,1
+NFDB_point.462,Quebec,20231080359,46.9407,-73.3527,2023,337.359204,Natural,small,1
+NFDB_point.449,Quebec,20231080308,47.0041,-73.4124,2023,334.7565238,Natural,small,1
+NFDB_point.392,Ontario,SLK53,53.9106,-90.8784,2023,334.0,Human,small,1
+NFDB_point.314,Manitoba,NO121,57.2531,-93.4672,2023,333.0,Natural,small,1
+NFDB_point.853,Northwest Territories,FS007-23,60.785117,-121.35875,2023,333.0,Natural,small,1
+NFDB_point.92,British Columbia,2023-VA2752,52.8213,-126.1975,2023,330.0,Natural,small,1
+NFDB_point.129,British Columbia,2023-R11725,53.5365,-126.6308,2023,330.0,Natural,small,1
+NFDB_point.716,Northwest Territories,FS028-23,61.434667,-120.5569,2023,328.0,Human,small,1
+NFDB_point.327,Manitoba,EA008,51.7136,-98.6169,2023,327.5,Human,small,1
+NFDB_point.486,Quebec,20231080458,51.6531,-71.6949,2023,326.6391749,Natural,small,1
+NFDB_point.773,Northwest Territories,SS053-23,60.179,-107.661583,2023,325.0,Natural,small,1
+NFDB_point.831,Northwest Territories,FS011-23,61.02575,-122.985367,2023,320.0,Natural,small,1
+NFDB_point.54,British Columbia,2023-G92594,59.9374,-127.762,2023,316.5,Natural,small,1
+NFDB_point.890,PC,2023TH5,62.4854,-110.4762,2023,314.0,Unknown,small,1
+NFDB_point.308,Saskatchewan,23LA-HARDY,55.622898,-106.39554,2023,314.0,Natural,small,1
+NFDB_point.828,Northwest Territories,EV010-23,67.116667,-134.5,2023,311.0,Natural,small,1
+NFDB_point.344,Manitoba,NO061,53.7319,-97.0003,2023,309.7,Natural,small,1
+NFDB_point.337,Manitoba,NO041,56.7092,-98.4792,2023,309.5,Natural,small,1
+NFDB_point.67,British Columbia,2023-C31143,52.6903,-121.3638,2023,308.0,Natural,small,1
+NFDB_point.791,Northwest Territories,VQ031-23,67.986783,-127.434333,2023,307.0,Natural,small,1
+NFDB_point.894,PC,2023KO1,50.6743,-115.8377,2023,307.0,Natural,small,1
+NFDB_point.386,Ontario,NIP37,52.3818,-87.494,2023,306.7,Natural,small,1
+NFDB_point.86,British Columbia,2023-N42216,51.7139,-118.1829,2023,303.0,Natural,small,1
+NFDB_point.16,British Columbia,2023-V52804,50.6693,-123.9888,2023,302.0,Natural,small,1
+NFDB_point.726,Northwest Territories,SS063-23,61.094067,-105.40955,2023,300.0,Natural,small,1
+NFDB_point.754,Northwest Territories,ZF059-23,64.451667,-107.385,2023,300.0,Natural,small,1
+NFDB_point.784,Northwest Territories,EV026-23,67.973167,-131.019833,2023,300.0,Natural,small,1
+NFDB_point.175,British Columbia,2023-V33258,50.5959,-122.7344,2023,300.0,Natural,small,1
+NFDB_point.593,Quebec,20231080663,51.0539,-79.1325,2023,300.0,Natural,small,1
+NFDB_point.242,Saskatchewan,23HB-CLEM,52.72738,-102.481436,2023,298.0,Human,small,1
+NFDB_point.616,Yukon,2023MA027,64.03545,-136.59915,2023,297.1,Unknown,small,1
+NFDB_point.196,British Columbia,2023-G60887,56.7857,-126.6837,2023,297.0,Natural,small,1
+NFDB_point.645,Yukon,2023DA042,65.450033,-136.650333,2023,289.8,Unknown,small,1
+NFDB_point.117,British Columbia,2023-N72169,50.7441,-117.13,2023,287.0,Natural,small,1
+NFDB_point.85,British Columbia,2023-N42228,51.2003,-116.7542,2023,284.0,Natural,small,1
+NFDB_point.148,British Columbia,2023-R13124,54.4756,-125.1785,2023,280.0,Natural,small,1
+NFDB_point.415,Quebec,20231080238,47.5952,-76.5984,2023,279.0025301,Natural,small,1
+NFDB_point.807,Northwest Territories,ZF075-23,62.1374,-105.6324,2023,279.0,Natural,small,1
+NFDB_point.60,British Columbia,2023-R41659,55.7303,-127.2702,2023,278.1,Unknown,small,1
+NFDB_point.69,British Columbia,2023-G30612,52.3739,-119.3284,2023,277.0,Natural,small,1
+NFDB_point.237,Saskatchewan,23BR-AIR04,53.42565,-106.893233,2023,275.0,Human,small,1
+NFDB_point.714,Northwest Territories,ZF098-23,64.36555,-119.0525,2023,274.0,Natural,small,1
+NFDB_point.478,Quebec,20231080422,48.4611,-73.8234,2023,273.3640322,Natural,small,1
+NFDB_point.253,Saskatchewan,23LA-GOW,56.45795,-104.382583,2023,271.6,Natural,small,1
+NFDB_point.56,British Columbia,2023-C12135,52.6094,-122.2498,2023,270.0,Natural,small,1
+NFDB_point.451,Quebec,20231080319,48.7855,-74.2301,2023,267.1329702,Natural,small,1
+NFDB_point.728,Northwest Territories,VQ029-23,64.622967,-124.87775,2023,266.0,Natural,small,1
+NFDB_point.321,Manitoba,WE005,53.6664,-100.324,2023,266.0,Human,small,1
+NFDB_point.222,Saskatchewan,23BN-LOCAL,56.481967,-109.435333,2023,266.0,Human,small,1
+NFDB_point.465,Quebec,20231080365,48.3983,-74.8239,2023,262.3976388,Natural,small,1
+NFDB_point.493,Quebec,20231080474,51.5286,-63.169,2023,262.3053594,Natural,small,1
+NFDB_point.68,British Columbia,2023-V53075,50.5322,-124.3396,2023,262.0,Natural,small,1
+NFDB_point.39,British Columbia,2023-G41466,53.659,-123.7843,2023,262.0,Natural,small,1
+NFDB_point.313,Manitoba,NO078,56.6175,-93.3706,2023,260.0,Natural,small,1
+NFDB_point.364,Ontario,NIP43,53.4902,-87.8313,2023,257.6,Natural,small,1
+NFDB_point.614,Yukon,2023RR010,62.816333,-133.814333,2023,255.51,Unknown,small,1
+NFDB_point.15203,Alberta,HWF175,57.552983,-115.553983,2023,251.8,Unknown,small,1
+NFDB_point.296,Saskatchewan,23LA-FORD,57.437417,-102.725867,2023,250.0,Natural,small,1
+NFDB_point.750,Northwest Territories,ZF076-23,62.272217,-104.927767,2023,250.0,Natural,small,1
+NFDB_point.812,Northwest Territories,FS018-23,60.7384,-120.9336,2023,250.0,Natural,small,1
+NFDB_point.610,Yukon,2023WL008,61.579784,-129.990649,2023,250.0,Natural,small,1
+NFDB_point.527,Quebec,20231080560,54.8276,-70.5066,2023,248.6849283,Natural,small,1
+NFDB_point.437,Quebec,20231080224,47.9748,-75.2777,2023,244.8,Natural,small,1
+NFDB_point.160,British Columbia,2023-C30446,52.8374,-120.4661,2023,241.7,Natural,small,1
+NFDB_point.163,British Columbia,2023-N71690,50.6605,-116.9419,2023,241.0,Natural,small,1
+NFDB_point.101,British Columbia,2023-K71658,50.802,-122.5285,2023,241.0,Natural,small,1
+NFDB_point.126,British Columbia,2023-C31349,52.4453,-120.754,2023,240.15,Natural,small,1
+NFDB_point.863,PC,2023WL2,49.0793,-113.8443,2023,240.0,Human,small,1
+NFDB_point.688,Yukon,2023RR002,62.5005,-133.387,2023,239.93,Unknown,small,1
+NFDB_point.354,Manitoba,NO115,52.9847,-95.1306,2023,239.2,Natural,small,1
+NFDB_point.162,British Columbia,2023-R31581,55.5963,-126.784,2023,239.0,Natural,small,1
+NFDB_point.11,British Columbia,2023-V51696,51.1679,-125.017,2023,238.0,Natural,small,1
+NFDB_point.403,Ontario,SLK70,54.4874,-91.6793,2023,237.0,Natural,small,1
+NFDB_point.477,Quebec,20231080412,49.1678,-71.8371,2023,236.8703526,Natural,small,1
+NFDB_point.585,Quebec,20231080581,52.762,-78.443,2023,232.1,Natural,small,1
+NFDB_point.89,British Columbia,2023-G32441,52.277,-119.374,2023,231.0,Natural,small,1
+NFDB_point.217,British Columbia,2023-V80527,50.3709,-126.0437,2023,230.0,Human,small,1
+NFDB_point.80,British Columbia,2023-R51555,54.9494,-128.8513,2023,230.0,Natural,small,1
+NFDB_point.315,Manitoba,NO123,58.575,-101.253,2023,230.0,Natural,small,1
+NFDB_point.130,British Columbia,2023-R51710,53.125,-127.651,2023,230.0,Unknown,small,1
+NFDB_point.604,Yukon,2023OC004,67.505067,-138.3513,2023,229.29,Natural,small,1
+NFDB_point.204,British Columbia,2023-V70600,49.2834,-124.6147,2023,229.0,Human,small,1
+NFDB_point.176,British Columbia,2023-N72601,50.2953,-117.1051,2023,228.0,Natural,small,1
+NFDB_point.4,British Columbia,2023-C30675,52.2548,-120.8352,2023,226.0,Human,small,1
+NFDB_point.463,Quebec,20231080360,47.4271,-75.9198,2023,224.0519367,Natural,small,1
+NFDB_point.783,Northwest Territories,EV018-23,67.842167,-131.1755,2023,224.0,Natural,small,1
+NFDB_point.118,British Columbia,2023-G11240,53.3965,-123.332,2023,224.0,Natural,small,1
+NFDB_point.413,Quebec,20231080229,47.6953,-74.0666,2023,223.437324,Natural,small,1
+NFDB_point.620,Yukon,2023XY024,61.6115,-134.6355,2023,221.1,Unknown,small,1
+NFDB_point.147,British Columbia,2023-K71032,50.6616,-123.0929,2023,220.57,Natural,small,1
+NFDB_point.210,British Columbia,2023-R21630,54.116,-126.9227,2023,220.0,Natural,small,1
+NFDB_point.582,Quebec,20231080516,52.7905,-75.994,2023,217.0,Natural,small,1
+NFDB_point.5,British Columbia,2023-V11152,49.3115,-122.2438,2023,215.0,Human,small,1
+NFDB_point.309,Saskatchewan,23SR-LLHIR03,58.182064,-103.05088,2023,214.7,Natural,small,1
+NFDB_point.512,Quebec,20231080536,49.6589,-69.9224,2023,209.0367673,Natural,small,1
+NFDB_point.2,British Columbia,2023-C50100,52.0351,-123.177,2023,209.0,Human,small,1
+NFDB_point.55,British Columbia,2023-G90565,57.9132,-123.9312,2023,208.0,Natural,small,1
+NFDB_point.459,Quebec,20231080352,49.1887,-72.0814,2023,205.5210222,Natural,small,1
+NFDB_point.111,British Columbia,2023-G62952,55.5756,-123.5436,2023,205.06,Natural,small,1
+NFDB_point.209,British Columbia,2023-R11592,53.4714,-125.2031,2023,203.8,Natural,small,1
+NFDB_point.479,Quebec,20231080439,49.5485,-70.8078,2023,202.3042635,Natural,small,1
+NFDB_point.298,Saskatchewan,23SR-ZANGE,58.005983,-102.046133,2023,200.0,Natural,small,1
+NFDB_point.788,Northwest Territories,VQ042-23,67.900917,-128.011633,2023,200.0,Natural,small,1
+NFDB_point.15160,Alberta,PWF120,57.23575,-116.358767,2023,200.0,Natural,small,1
+NFDB_point.15192,Alberta,LWF091,54.50045,-113.6563,2023,200.0,Unknown,small,1
+NFDB_point.145,British Columbia,2023-R51336,55.1462,-128.7224,2023,200.0,Natural,small,1
+NFDB_point.172,British Columbia,2023-N52372,50.4053,-117.7668,2023,200.0,Natural,small,1
+NFDB_point.656,Yukon,2023OC002,67.185917,-138.333033,2023,200.0,Natural,small,1
+NFDB_point.53,British Columbia,2023-R51245,53.8538,-128.5935,2023,200.0,Natural,small,1
+NFDB_point.325,Manitoba,NO057,55.8553,-95.645,2023,200.0,Natural,small,1
+NFDB_point.848,Northwest Territories,ZF014-23,63.2415,-114.374,2023,200.0,Natural,small,1
+NFDB_point.15191,Alberta,HWF161,59.731,-119.751217,2023,200.0,Natural,small,1
+NFDB_point.81,British Columbia,2023-C53189,51.6808,-124.994,2023,200.0,Natural,small,1
