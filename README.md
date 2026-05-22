@@ -1,5 +1,5 @@
 # Canada Wildfire 2023 - An Interactive Fire Impact Map
-As a part of the final project in the SDS210 module at the University of Zurich this project focuses on wildfires in Canada during 2023. Therefore, it maps all recorded uncontrolled wildfires across the country and shows them on a interactive Folium map. Additionally it measures how close these fires were to high population cities of Canada, making it easiert to understand which areas were at risk or most affected. To make a connection we add present live satellite fire data from NASA FIRMS. It trys to respond the following research question: _____
+As a part of the final project in the SDS210 module at the University of Zurich this project focuses on wildfires in Canada during 2023. Therefore, it maps all recorded uncontrolled wildfires across the country and shows them on a interactive Folium map. Additionally it measures how close these fires were to high population cities of Canada, making it easiert to understand which areas were at risk or most affected. To make a connection we add present live satellite fire data from NASA FIRMS. It trys to respond the following research question: *Which Canadian Cities were exposed to the most risk during wildfire season in 2023?* 
 
 ## Data Sources
 
@@ -40,7 +40,7 @@ sds210project/
 |   |--  cities_canada.ipynb
 |   |__ visualization.ipynb
 |__ outputs/
-    |__ interactive_firemap.html     # Final deliverable
+    |__ interactive_firemap.html     
 ```
 
 ## Setup Instructions:
@@ -62,9 +62,11 @@ conda activate sds210project
 ```
 
 **The `environment.yml` file:**
-> The file includes all required packages for this project, such as pandas, geopandas, folium, leafmap, requests
+> The file includes all required packages for this project, such as pandas, geopandas, folium, leafmap & requests
 > Since i worked with jupyterlab it is already installed in the `environment.yml`
 > When creating the environment all required packages will be installed automatically.
+
+***Step 3 is only required when raw data files are missing in Jupyter lab!***
 
 **Step 3: Storing the raw data files**
 
